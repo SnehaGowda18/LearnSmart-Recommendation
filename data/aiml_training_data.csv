@@ -1,0 +1,1201 @@
+booking_id,city,service_type,booking_date,booking_hour,day_of_week,weather,price_inr,duration_minutes,rating,status,demand_index
+UC00001,Bangalore,Plumbing,2026-07-25,19,Saturday,rainy,411,102,3.3,completed,0.77
+UC00002,Chennai,Plumbing,2026-06-07,14,Sunday,sunny,356,68,3.4,no_show,0.72
+UC00003,Pune,Deep Cleaning,2026-06-15,18,Monday,humid,1256,101,3.9,completed,0.87
+UC00004,Pune,Electrician,2025-09-04,14,Thursday,rainy,470,84,3.4,completed,0.37
+UC00005,Delhi,Plumbing,2026-03-14,21,Saturday,rainy,503,112,4.6,cancelled,0.68
+UC00006,Chennai,Plumbing,2026-03-13,12,Friday,humid,441,94,4.4,completed,0.76
+UC00007,Kolkata,Plumbing,2026-01-27,11,Tuesday,sunny,446,116,3.9,completed,0.41
+UC00008,Pune,Deep Cleaning,2026-03-01,12,Sunday,sunny,1304,88,4.1,completed,0.41
+UC00009,Pune,Pest Control,2026-03-14,19,Saturday,humid,705,128,4.7,completed,0.46
+UC00010,Hyderabad,Painting,2025-09-17,12,Wednesday,sunny,3003,125,3.4,cancelled,0.58
+UC00011,Mumbai,Salon at Home,2026-07-27,12,Monday,cloudy,362,112,4.5,cancelled,0.93
+UC00012,Mumbai,Painting,2026-03-24,10,Tuesday,humid,3075,68,4.5,completed,0.41
+UC00013,Chennai,Carpentry,2025-11-21,9,Friday,partly_cloudy,646,164,4.1,no_show,0.9
+UC00014,Pune,Plumbing,2025-09-06,16,Saturday,rainy,545,132,3.2,cancelled,0.41
+UC00015,Chennai,Pest Control,2025-09-02,20,Tuesday,cloudy,778,72,4.7,completed,0.89
+UC00016,Mumbai,Deep Cleaning,2026-05-18,13,Monday,cloudy,1287,180,4.8,no_show,0.53
+UC00017,Delhi,Plumbing,2025-09-10,21,Wednesday,rainy,410,59,3.5,no_show,0.96
+UC00018,Kolkata,Salon at Home,2025-10-14,9,Tuesday,humid,495,77,3.3,cancelled,0.96
+UC00019,Chennai,Pest Control,2025-11-24,21,Monday,humid,757,99,4.9,completed,0.8
+UC00020,Hyderabad,Painting,2026-03-24,16,Tuesday,partly_cloudy,2979,108,3.4,completed,0.31
+UC00021,Chennai,Deep Cleaning,2026-06-11,11,Thursday,sunny,1167,60,3.5,completed,0.9
+UC00022,Delhi,Deep Cleaning,2025-10-07,18,Tuesday,partly_cloudy,1203,78,4.4,no_show,0.7
+UC00023,Kolkata,Salon at Home,2026-01-03,14,Saturday,cloudy,323,69,4.3,completed,0.6
+UC00024,Pune,AC Repair,2026-04-28,18,Tuesday,sunny,764,148,4.5,completed,0.47
+UC00025,Mumbai,Salon at Home,2025-12-07,14,Sunday,cloudy,370,163,3.5,completed,0.61
+UC00026,Bangalore,Plumbing,2026-06-09,18,Tuesday,humid,352,68,4.9,completed,0.42
+UC00027,Mumbai,Salon at Home,2026-05-07,21,Thursday,partly_cloudy,314,87,3.8,cancelled,0.49
+UC00028,Hyderabad,Pest Control,2026-04-21,19,Tuesday,humid,818,169,3.3,completed,0.45
+UC00029,Pune,AC Repair,2025-09-30,13,Tuesday,sunny,761,167,4.0,no_show,0.41
+UC00030,Kolkata,Plumbing,2026-05-19,10,Tuesday,sunny,501,62,4.4,completed,0.58
+UC00031,Chennai,Deep Cleaning,2026-06-19,17,Friday,sunny,1307,65,3.8,no_show,0.7
+UC00032,Mumbai,Pest Control,2026-02-09,18,Monday,rainy,710,112,3.8,completed,0.62
+UC00033,Hyderabad,AC Repair,2025-10-08,17,Wednesday,humid,774,63,4.1,no_show,0.49
+UC00034,Mumbai,Plumbing,2026-02-26,13,Thursday,rainy,389,157,4.7,completed,0.73
+UC00035,Pune,AC Repair,2026-08-01,21,Saturday,humid,825,71,4.9,completed,0.49
+UC00036,Delhi,Electrician,2025-10-25,12,Saturday,humid,452,132,3.4,completed,0.65
+UC00037,Bangalore,AC Repair,2026-01-07,18,Wednesday,partly_cloudy,819,56,3.0,completed,0.75
+UC00038,Pune,Electrician,2026-01-13,15,Tuesday,humid,579,154,4.1,completed,0.35
+UC00039,Chennai,Electrician,2026-08-20,8,Thursday,rainy,548,82,3.9,completed,0.52
+UC00040,Mumbai,Painting,2025-09-21,18,Sunday,cloudy,3119,71,3.7,no_show,0.92
+UC00041,Mumbai,Electrician,2026-03-28,21,Saturday,cloudy,444,150,3.0,completed,0.85
+UC00042,Delhi,Deep Cleaning,2026-03-30,10,Monday,sunny,1246,54,4.7,completed,0.44
+UC00043,Delhi,Painting,2026-04-24,21,Friday,cloudy,3006,51,4.3,cancelled,0.53
+UC00044,Delhi,Pest Control,2025-10-06,18,Monday,humid,751,129,4.9,completed,0.91
+UC00045,Chennai,Electrician,2026-01-12,12,Monday,sunny,426,156,3.7,completed,0.61
+UC00046,Hyderabad,Plumbing,2026-05-20,17,Wednesday,cloudy,414,56,4.4,completed,0.66
+UC00047,Delhi,Deep Cleaning,2026-06-03,14,Wednesday,sunny,1319,129,4.2,completed,0.8
+UC00048,Pune,Pest Control,2026-02-01,14,Sunday,rainy,752,120,4.1,completed,0.59
+UC00049,Chennai,Electrician,2026-03-14,17,Saturday,rainy,502,45,3.6,completed,0.6
+UC00050,Hyderabad,Painting,2026-06-24,15,Wednesday,partly_cloudy,3121,99,4.0,completed,0.76
+UC00051,Bangalore,Painting,2026-01-24,21,Saturday,cloudy,3121,124,3.4,completed,0.4
+UC00052,Hyderabad,Deep Cleaning,2025-09-24,17,Wednesday,sunny,1265,151,4.8,no_show,0.44
+UC00053,Hyderabad,Carpentry,2026-08-23,14,Sunday,cloudy,586,46,4.8,completed,0.84
+UC00054,Kolkata,Electrician,2025-12-22,19,Monday,humid,517,57,4.1,completed,0.62
+UC00055,Kolkata,Painting,2026-04-26,15,Sunday,humid,3133,174,3.9,no_show,0.61
+UC00056,Hyderabad,Salon at Home,2025-11-21,12,Friday,cloudy,462,115,4.5,no_show,0.64
+UC00057,Hyderabad,Pest Control,2026-01-01,9,Thursday,rainy,709,114,3.7,no_show,0.36
+UC00058,Hyderabad,Deep Cleaning,2025-11-17,19,Monday,cloudy,1329,99,3.1,cancelled,0.53
+UC00059,Bangalore,Carpentry,2026-04-27,11,Monday,partly_cloudy,648,50,4.7,no_show,0.57
+UC00060,Delhi,Painting,2025-09-04,20,Thursday,partly_cloudy,3056,101,4.0,completed,0.61
+UC00061,Delhi,Carpentry,2025-09-15,18,Monday,partly_cloudy,734,87,4.7,completed,0.99
+UC00062,Hyderabad,AC Repair,2026-06-01,17,Monday,humid,918,51,3.2,cancelled,0.39
+UC00063,Bangalore,Electrician,2026-04-25,12,Saturday,partly_cloudy,482,99,3.9,completed,0.83
+UC00064,Kolkata,Pest Control,2026-03-14,21,Saturday,partly_cloudy,713,65,3.9,no_show,0.34
+UC00065,Pune,Deep Cleaning,2026-02-27,9,Friday,sunny,1342,52,4.9,completed,0.89
+UC00066,Mumbai,Electrician,2026-07-16,10,Thursday,partly_cloudy,570,74,4.1,completed,0.63
+UC00067,Mumbai,Painting,2026-01-10,17,Saturday,humid,3140,74,4.6,completed,0.98
+UC00068,Delhi,AC Repair,2025-10-26,17,Sunday,partly_cloudy,850,95,3.2,completed,0.37
+UC00069,Kolkata,Plumbing,2026-02-02,17,Monday,sunny,437,154,4.3,completed,0.65
+UC00070,Kolkata,AC Repair,2026-02-22,14,Sunday,partly_cloudy,776,155,4.9,cancelled,0.8
+UC00071,Pune,Electrician,2026-04-11,16,Saturday,rainy,556,168,3.9,no_show,0.49
+UC00072,Delhi,Plumbing,2026-01-04,15,Sunday,cloudy,541,163,4.1,cancelled,0.54
+UC00073,Mumbai,Painting,2026-05-12,15,Tuesday,cloudy,3039,111,3.7,no_show,0.79
+UC00074,Chennai,AC Repair,2026-01-20,11,Tuesday,sunny,810,149,4.0,completed,0.78
+UC00075,Hyderabad,Salon at Home,2026-07-28,20,Tuesday,sunny,322,120,3.4,completed,0.51
+UC00076,Hyderabad,Painting,2026-06-25,16,Thursday,humid,3037,153,5.0,no_show,0.53
+UC00077,Delhi,Salon at Home,2026-08-26,12,Wednesday,rainy,358,75,4.4,completed,0.38
+UC00078,Mumbai,Electrician,2026-06-02,11,Tuesday,partly_cloudy,469,179,4.2,completed,0.88
+UC00079,Delhi,Deep Cleaning,2026-01-30,10,Friday,rainy,1152,77,3.5,completed,0.69
+UC00080,Pune,Electrician,2026-08-24,21,Monday,partly_cloudy,425,48,4.1,cancelled,0.64
+UC00081,Bangalore,Electrician,2026-02-22,12,Sunday,partly_cloudy,428,61,3.8,completed,0.7
+UC00082,Mumbai,AC Repair,2026-08-18,10,Tuesday,humid,826,66,5.0,completed,0.69
+UC00083,Kolkata,Deep Cleaning,2026-04-02,16,Thursday,partly_cloudy,1264,158,3.6,no_show,0.99
+UC00084,Chennai,AC Repair,2026-02-04,19,Wednesday,sunny,944,98,4.3,completed,0.76
+UC00085,Mumbai,Deep Cleaning,2025-11-20,16,Thursday,sunny,1189,45,3.8,no_show,0.63
+UC00086,Delhi,Deep Cleaning,2025-09-17,19,Wednesday,rainy,1328,161,3.1,completed,0.95
+UC00087,Hyderabad,Deep Cleaning,2026-07-18,9,Saturday,humid,1206,83,4.8,completed,0.35
+UC00088,Chennai,Pest Control,2025-11-24,19,Monday,humid,722,157,3.2,completed,0.79
+UC00089,Hyderabad,Salon at Home,2026-01-18,9,Sunday,humid,309,155,4.5,no_show,0.48
+UC00090,Pune,Deep Cleaning,2025-10-17,21,Friday,humid,1299,50,5.0,completed,0.7
+UC00091,Chennai,Salon at Home,2025-11-29,18,Saturday,partly_cloudy,370,91,5.0,cancelled,0.74
+UC00092,Hyderabad,Plumbing,2026-05-10,13,Sunday,partly_cloudy,434,127,4.3,completed,0.53
+UC00093,Delhi,Salon at Home,2026-08-22,18,Saturday,partly_cloudy,493,54,3.9,completed,0.48
+UC00094,Kolkata,Carpentry,2025-10-30,16,Thursday,sunny,717,163,3.8,completed,0.66
+UC00095,Pune,Salon at Home,2026-07-16,15,Thursday,sunny,351,113,4.1,completed,0.61
+UC00096,Bangalore,Salon at Home,2026-08-24,8,Monday,humid,360,85,3.6,completed,0.69
+UC00097,Kolkata,Deep Cleaning,2025-10-18,9,Saturday,partly_cloudy,1179,84,4.0,completed,0.66
+UC00098,Kolkata,Carpentry,2026-01-18,15,Sunday,partly_cloudy,611,161,4.1,cancelled,0.43
+UC00099,Kolkata,Electrician,2026-07-04,9,Saturday,rainy,596,151,3.7,no_show,0.49
+UC00100,Pune,Pest Control,2025-09-02,12,Tuesday,humid,797,170,4.7,cancelled,0.68
+UC00101,Chennai,Painting,2026-02-24,20,Tuesday,humid,3045,161,4.9,completed,0.99
+UC00102,Mumbai,Carpentry,2026-01-01,21,Thursday,partly_cloudy,560,126,4.5,cancelled,0.57
+UC00103,Hyderabad,Electrician,2026-08-06,8,Thursday,cloudy,527,129,4.7,cancelled,0.37
+UC00104,Pune,AC Repair,2026-04-22,10,Wednesday,partly_cloudy,916,84,3.1,completed,0.54
+UC00105,Pune,Carpentry,2026-08-21,9,Friday,rainy,721,142,4.9,cancelled,0.91
+UC00106,Mumbai,Plumbing,2025-09-19,18,Friday,rainy,407,68,3.9,completed,0.83
+UC00107,Hyderabad,Plumbing,2026-08-27,10,Thursday,rainy,356,56,3.6,completed,0.51
+UC00108,Mumbai,Carpentry,2026-03-11,11,Wednesday,humid,654,91,3.3,completed,0.73
+UC00109,Hyderabad,Deep Cleaning,2026-03-15,17,Sunday,cloudy,1208,163,4.3,cancelled,0.48
+UC00110,Delhi,Salon at Home,2025-09-05,18,Friday,humid,339,63,3.9,completed,0.99
+UC00111,Pune,Carpentry,2026-02-01,12,Sunday,partly_cloudy,626,95,5.0,cancelled,0.37
+UC00112,Chennai,Painting,2026-03-15,12,Sunday,rainy,2954,146,3.5,no_show,0.91
+UC00113,Kolkata,Salon at Home,2025-09-26,12,Friday,cloudy,454,135,3.4,completed,0.73
+UC00114,Pune,Electrician,2026-08-14,9,Friday,sunny,478,157,3.1,completed,0.81
+UC00115,Delhi,Pest Control,2025-10-17,19,Friday,partly_cloudy,693,96,3.3,no_show,0.91
+UC00116,Kolkata,Pest Control,2026-03-07,10,Saturday,rainy,772,120,4.5,completed,0.86
+UC00117,Mumbai,Plumbing,2026-04-28,20,Tuesday,cloudy,522,146,4.9,no_show,0.56
+UC00118,Delhi,AC Repair,2026-03-22,16,Sunday,sunny,865,139,4.3,completed,0.71
+UC00119,Bangalore,Painting,2026-07-24,18,Friday,cloudy,3069,51,4.2,no_show,0.53
+UC00120,Pune,Deep Cleaning,2026-07-10,9,Friday,partly_cloudy,1328,122,4.3,completed,0.4
+UC00121,Hyderabad,Pest Control,2025-09-20,9,Saturday,sunny,709,79,3.8,completed,0.77
+UC00122,Chennai,Carpentry,2026-08-23,19,Sunday,cloudy,655,70,4.7,no_show,0.59
+UC00123,Pune,AC Repair,2026-01-22,13,Thursday,cloudy,862,158,4.9,completed,0.37
+UC00124,Chennai,Painting,2026-08-18,18,Tuesday,rainy,2964,146,3.6,completed,0.96
+UC00125,Pune,Plumbing,2026-04-21,11,Tuesday,humid,354,57,4.6,completed,0.99
+UC00126,Bangalore,Deep Cleaning,2026-06-17,21,Wednesday,humid,1202,100,4.6,completed,0.53
+UC00127,Delhi,AC Repair,2025-11-15,21,Saturday,cloudy,782,109,4.6,completed,0.76
+UC00128,Bangalore,Electrician,2025-09-14,13,Sunday,cloudy,549,127,3.0,completed,0.34
+UC00129,Pune,Plumbing,2026-04-04,9,Saturday,partly_cloudy,463,137,4.0,completed,0.62
+UC00130,Pune,AC Repair,2025-12-23,20,Tuesday,humid,826,162,4.3,completed,0.34
+UC00131,Hyderabad,Carpentry,2026-05-04,18,Monday,sunny,674,158,3.1,completed,0.53
+UC00132,Mumbai,Plumbing,2025-11-15,12,Saturday,humid,511,128,3.8,no_show,0.67
+UC00133,Bangalore,Carpentry,2026-04-21,20,Tuesday,sunny,716,100,3.9,completed,0.59
+UC00134,Hyderabad,Carpentry,2026-04-21,19,Tuesday,sunny,629,154,3.6,completed,0.56
+UC00135,Bangalore,Salon at Home,2025-11-18,9,Tuesday,sunny,322,155,3.2,completed,0.87
+UC00136,Chennai,AC Repair,2026-06-12,16,Friday,humid,833,76,3.8,cancelled,0.91
+UC00137,Chennai,Pest Control,2025-09-27,12,Saturday,rainy,675,174,3.4,cancelled,0.46
+UC00138,Kolkata,Painting,2025-10-26,16,Sunday,rainy,2978,116,4.1,cancelled,0.89
+UC00139,Chennai,AC Repair,2026-07-16,18,Thursday,rainy,756,91,3.5,completed,0.95
+UC00140,Mumbai,AC Repair,2026-02-27,21,Friday,cloudy,893,147,3.1,completed,0.36
+UC00141,Hyderabad,Deep Cleaning,2026-05-30,14,Saturday,partly_cloudy,1236,85,3.7,completed,0.84
+UC00142,Bangalore,Plumbing,2026-06-18,10,Thursday,cloudy,542,57,4.3,completed,0.61
+UC00143,Chennai,Salon at Home,2026-04-06,15,Monday,partly_cloudy,368,100,4.5,completed,0.54
+UC00144,Pune,Pest Control,2025-10-27,18,Monday,humid,773,179,4.3,completed,0.45
+UC00145,Bangalore,AC Repair,2026-07-04,11,Saturday,rainy,803,80,4.5,completed,0.53
+UC00146,Pune,Salon at Home,2025-09-04,14,Thursday,cloudy,332,142,4.1,completed,0.65
+UC00147,Bangalore,Painting,2026-08-09,14,Sunday,sunny,3060,49,3.9,completed,0.9
+UC00148,Chennai,Carpentry,2026-06-22,14,Monday,partly_cloudy,623,74,3.8,completed,0.42
+UC00149,Kolkata,Salon at Home,2026-07-14,19,Tuesday,rainy,321,156,4.7,completed,0.6
+UC00150,Hyderabad,Plumbing,2026-03-25,21,Wednesday,rainy,539,131,3.4,completed,0.35
+UC00151,Chennai,Plumbing,2026-07-22,16,Wednesday,cloudy,547,134,3.7,completed,0.47
+UC00152,Mumbai,Pest Control,2025-11-14,10,Friday,humid,688,64,3.4,cancelled,0.62
+UC00153,Pune,Salon at Home,2026-06-16,17,Tuesday,humid,381,125,3.3,completed,0.63
+UC00154,Kolkata,Pest Control,2026-07-21,12,Tuesday,humid,663,135,4.0,completed,0.62
+UC00155,Delhi,AC Repair,2025-09-20,21,Saturday,rainy,768,68,4.2,no_show,0.57
+UC00156,Hyderabad,AC Repair,2026-06-25,20,Thursday,humid,915,93,3.6,cancelled,0.65
+UC00157,Bangalore,Salon at Home,2025-10-02,20,Thursday,rainy,481,66,4.0,completed,0.33
+UC00158,Hyderabad,Salon at Home,2026-08-29,16,Saturday,humid,455,85,3.7,completed,0.57
+UC00159,Kolkata,AC Repair,2026-02-21,18,Saturday,rainy,765,129,3.2,cancelled,0.5
+UC00160,Delhi,Electrician,2026-08-03,9,Monday,humid,568,81,4.8,completed,0.98
+UC00161,Mumbai,Carpentry,2026-08-24,17,Monday,sunny,628,141,4.3,completed,0.87
+UC00162,Pune,Plumbing,2026-08-10,18,Monday,partly_cloudy,479,137,3.0,completed,0.43
+UC00163,Kolkata,Painting,2025-12-19,15,Friday,cloudy,3006,80,3.3,completed,0.89
+UC00164,Pune,AC Repair,2025-10-22,13,Wednesday,humid,782,141,3.3,completed,0.88
+UC00165,Pune,Electrician,2026-07-17,15,Friday,sunny,504,138,4.4,completed,0.98
+UC00166,Kolkata,Pest Control,2026-07-10,19,Friday,partly_cloudy,708,106,3.6,cancelled,0.93
+UC00167,Pune,Painting,2025-12-09,17,Tuesday,partly_cloudy,3067,117,4.6,no_show,0.67
+UC00168,Kolkata,Deep Cleaning,2025-11-22,17,Saturday,cloudy,1213,58,4.3,completed,0.69
+UC00169,Delhi,Plumbing,2025-10-23,9,Thursday,cloudy,418,160,4.8,completed,0.88
+UC00170,Kolkata,Deep Cleaning,2025-10-17,15,Friday,rainy,1155,151,3.1,no_show,0.56
+UC00171,Delhi,Plumbing,2026-03-17,11,Tuesday,sunny,430,70,4.7,completed,0.85
+UC00172,Delhi,AC Repair,2025-11-10,21,Monday,partly_cloudy,927,80,4.5,cancelled,0.61
+UC00173,Bangalore,Plumbing,2025-09-03,12,Wednesday,cloudy,387,180,3.8,completed,0.47
+UC00174,Mumbai,AC Repair,2025-11-02,14,Sunday,humid,866,61,3.2,cancelled,0.72
+UC00175,Pune,Deep Cleaning,2025-09-09,10,Tuesday,rainy,1258,45,4.2,completed,0.7
+UC00176,Chennai,Plumbing,2025-12-05,13,Friday,sunny,483,174,4.6,no_show,0.69
+UC00177,Bangalore,Salon at Home,2026-03-19,18,Thursday,partly_cloudy,394,109,4.5,completed,0.85
+UC00178,Pune,Deep Cleaning,2026-02-24,18,Tuesday,sunny,1346,130,3.3,completed,0.68
+UC00179,Kolkata,Electrician,2026-07-27,20,Monday,partly_cloudy,577,167,4.3,completed,0.34
+UC00180,Delhi,AC Repair,2026-04-23,11,Thursday,sunny,800,55,3.6,completed,0.66
+UC00181,Delhi,Salon at Home,2026-06-06,8,Saturday,cloudy,372,136,4.7,completed,0.91
+UC00182,Bangalore,Pest Control,2026-02-17,20,Tuesday,rainy,760,147,4.5,cancelled,0.54
+UC00183,Pune,Salon at Home,2025-12-05,15,Friday,rainy,431,113,4.6,cancelled,0.36
+UC00184,Chennai,Electrician,2026-07-06,12,Monday,rainy,425,65,3.7,completed,0.51
+UC00185,Mumbai,Carpentry,2026-07-06,19,Monday,partly_cloudy,638,159,3.1,completed,0.73
+UC00186,Pune,Pest Control,2026-04-11,20,Saturday,sunny,668,148,3.7,completed,0.97
+UC00187,Bangalore,Salon at Home,2025-11-13,10,Thursday,sunny,359,138,3.7,no_show,0.32
+UC00188,Delhi,Salon at Home,2025-11-18,13,Tuesday,partly_cloudy,494,64,4.1,no_show,0.56
+UC00189,Mumbai,Pest Control,2026-02-08,9,Sunday,sunny,837,92,4.0,cancelled,0.94
+UC00190,Kolkata,Pest Control,2025-10-31,12,Friday,partly_cloudy,703,118,4.4,cancelled,0.44
+UC00191,Hyderabad,Plumbing,2025-11-09,10,Sunday,partly_cloudy,371,126,4.3,completed,0.68
+UC00192,Kolkata,Pest Control,2026-01-27,10,Tuesday,cloudy,741,175,3.4,completed,0.85
+UC00193,Bangalore,Salon at Home,2025-12-31,13,Wednesday,humid,445,139,3.9,no_show,0.39
+UC00194,Delhi,Plumbing,2025-10-15,14,Wednesday,partly_cloudy,483,150,4.5,no_show,0.35
+UC00195,Hyderabad,Plumbing,2026-02-10,15,Tuesday,humid,437,77,4.8,no_show,0.75
+UC00196,Hyderabad,Electrician,2025-12-03,16,Wednesday,sunny,430,177,3.3,completed,0.41
+UC00197,Delhi,Deep Cleaning,2026-08-30,16,Sunday,rainy,1169,109,3.4,no_show,0.49
+UC00198,Chennai,Pest Control,2026-07-18,16,Saturday,sunny,777,88,4.2,no_show,0.41
+UC00199,Kolkata,Painting,2026-08-04,17,Tuesday,sunny,2956,65,3.1,no_show,0.49
+UC00200,Chennai,Carpentry,2025-12-17,18,Wednesday,sunny,676,119,4.3,completed,0.64
+UC00201,Delhi,Carpentry,2026-08-17,15,Monday,sunny,725,60,3.3,cancelled,0.64
+UC00202,Chennai,Painting,2025-12-14,10,Sunday,rainy,3132,126,4.5,completed,0.98
+UC00203,Chennai,Painting,2025-11-06,16,Thursday,sunny,3030,106,3.9,completed,0.61
+UC00204,Bangalore,Plumbing,2025-11-12,12,Wednesday,partly_cloudy,506,152,3.5,completed,0.87
+UC00205,Mumbai,Painting,2026-06-23,20,Tuesday,cloudy,3076,176,3.9,completed,0.65
+UC00206,Chennai,Carpentry,2025-10-17,15,Friday,cloudy,604,135,3.1,completed,0.65
+UC00207,Delhi,Salon at Home,2026-08-01,16,Saturday,sunny,326,155,3.3,completed,0.81
+UC00208,Bangalore,Painting,2026-03-26,14,Thursday,sunny,3094,94,3.7,completed,0.35
+UC00209,Kolkata,Salon at Home,2026-05-17,16,Sunday,rainy,458,75,3.3,completed,0.58
+UC00210,Kolkata,Painting,2026-02-21,10,Saturday,cloudy,3103,175,3.8,completed,0.33
+UC00211,Kolkata,Painting,2025-11-10,15,Monday,humid,3065,83,4.2,no_show,0.4
+UC00212,Mumbai,Painting,2026-07-11,14,Saturday,humid,3138,121,4.2,no_show,0.88
+UC00213,Pune,Salon at Home,2026-05-31,17,Sunday,rainy,420,49,3.7,completed,0.99
+UC00214,Kolkata,Pest Control,2026-06-26,19,Friday,sunny,801,166,3.5,no_show,0.7
+UC00215,Mumbai,Salon at Home,2025-09-27,16,Saturday,humid,497,142,3.3,completed,0.32
+UC00216,Mumbai,Plumbing,2026-08-25,8,Tuesday,partly_cloudy,429,152,3.3,completed,0.59
+UC00217,Kolkata,Salon at Home,2026-07-11,21,Saturday,sunny,479,80,4.0,no_show,0.53
+UC00218,Chennai,Salon at Home,2026-08-06,14,Thursday,rainy,343,162,4.8,completed,0.68
+UC00219,Chennai,Pest Control,2026-08-13,15,Thursday,cloudy,712,116,4.1,completed,0.96
+UC00220,Pune,Pest Control,2026-01-31,11,Saturday,partly_cloudy,730,167,3.7,completed,0.5
+UC00221,Hyderabad,Carpentry,2026-06-21,21,Sunday,rainy,746,82,3.6,completed,0.97
+UC00222,Hyderabad,Painting,2025-10-11,18,Saturday,rainy,3140,167,3.4,no_show,0.49
+UC00223,Mumbai,Pest Control,2026-06-15,9,Monday,humid,838,106,3.5,no_show,0.46
+UC00224,Bangalore,AC Repair,2025-12-29,14,Monday,rainy,932,165,3.2,completed,0.3
+UC00225,Hyderabad,Electrician,2026-06-09,18,Tuesday,partly_cloudy,521,96,4.5,completed,0.52
+UC00226,Kolkata,AC Repair,2026-07-28,9,Tuesday,humid,808,54,4.8,completed,0.59
+UC00227,Kolkata,AC Repair,2025-11-30,14,Sunday,partly_cloudy,796,119,4.8,completed,0.51
+UC00228,Delhi,Plumbing,2026-07-06,12,Monday,partly_cloudy,513,179,4.0,completed,0.9
+UC00229,Mumbai,Pest Control,2026-04-28,20,Tuesday,sunny,733,86,4.5,completed,0.8
+UC00230,Kolkata,Painting,2025-09-08,12,Monday,humid,3121,94,3.4,cancelled,0.88
+UC00231,Bangalore,Painting,2026-05-22,14,Friday,sunny,2996,80,4.0,completed,0.3
+UC00232,Hyderabad,Deep Cleaning,2026-03-16,20,Monday,rainy,1233,122,4.2,no_show,0.31
+UC00233,Pune,Painting,2026-08-01,11,Saturday,sunny,3119,75,3.9,completed,0.58
+UC00234,Pune,Pest Control,2026-05-16,9,Saturday,rainy,743,101,3.4,completed,0.63
+UC00235,Hyderabad,Painting,2026-04-21,19,Tuesday,humid,3069,100,4.5,no_show,0.91
+UC00236,Chennai,Salon at Home,2025-10-12,19,Sunday,rainy,318,73,3.1,no_show,0.93
+UC00237,Mumbai,Electrician,2025-12-13,13,Saturday,humid,512,74,4.4,no_show,0.64
+UC00238,Kolkata,Salon at Home,2026-05-20,8,Wednesday,partly_cloudy,332,176,3.8,no_show,0.34
+UC00239,Pune,Pest Control,2026-04-25,8,Saturday,partly_cloudy,714,45,4.5,no_show,0.35
+UC00240,Pune,Painting,2026-04-05,9,Sunday,humid,2964,62,5.0,cancelled,0.32
+UC00241,Kolkata,Electrician,2026-03-29,10,Sunday,partly_cloudy,494,142,3.9,cancelled,0.56
+UC00242,Pune,Electrician,2026-08-16,21,Sunday,rainy,429,90,5.0,cancelled,0.67
+UC00243,Kolkata,AC Repair,2025-12-24,8,Wednesday,rainy,867,153,4.1,completed,0.47
+UC00244,Delhi,Electrician,2026-02-25,11,Wednesday,sunny,407,152,4.2,completed,0.47
+UC00245,Chennai,Plumbing,2025-10-05,8,Sunday,partly_cloudy,502,57,3.5,completed,0.58
+UC00246,Kolkata,Deep Cleaning,2025-12-29,21,Monday,sunny,1184,173,5.0,completed,0.87
+UC00247,Chennai,Painting,2026-06-22,17,Monday,rainy,3009,122,4.8,no_show,0.45
+UC00248,Bangalore,Pest Control,2026-02-01,16,Sunday,humid,837,89,4.3,cancelled,0.69
+UC00249,Pune,Painting,2025-09-25,18,Thursday,partly_cloudy,3083,126,4.4,cancelled,0.4
+UC00250,Kolkata,Electrician,2026-03-12,16,Thursday,partly_cloudy,460,102,3.6,completed,0.86
+UC00251,Hyderabad,Carpentry,2025-09-30,16,Tuesday,humid,583,144,3.5,completed,0.53
+UC00252,Kolkata,Salon at Home,2025-10-11,13,Saturday,sunny,436,93,3.1,cancelled,0.77
+UC00253,Kolkata,AC Repair,2026-07-06,9,Monday,cloudy,943,100,4.0,completed,0.51
+UC00254,Mumbai,Deep Cleaning,2025-09-08,19,Monday,sunny,1340,167,4.8,no_show,0.79
+UC00255,Chennai,Deep Cleaning,2026-03-23,13,Monday,rainy,1246,164,4.1,completed,0.52
+UC00256,Hyderabad,Salon at Home,2026-03-04,9,Wednesday,partly_cloudy,493,126,4.8,completed,0.52
+UC00257,Pune,Deep Cleaning,2025-09-24,10,Wednesday,sunny,1215,151,3.6,completed,0.53
+UC00258,Hyderabad,Deep Cleaning,2026-03-14,16,Saturday,rainy,1214,170,4.9,cancelled,0.62
+UC00259,Mumbai,Electrician,2026-02-28,19,Saturday,humid,524,92,4.8,no_show,0.99
+UC00260,Kolkata,AC Repair,2025-10-01,21,Wednesday,sunny,920,57,4.5,cancelled,0.4
+UC00261,Bangalore,Deep Cleaning,2026-07-20,19,Monday,cloudy,1151,100,4.0,completed,0.34
+UC00262,Pune,Salon at Home,2026-07-24,15,Friday,sunny,300,150,3.0,no_show,0.81
+UC00263,Bangalore,Pest Control,2026-06-02,16,Tuesday,partly_cloudy,694,72,4.8,no_show,0.4
+UC00264,Kolkata,Pest Control,2025-12-08,13,Monday,rainy,750,65,3.7,cancelled,0.62
+UC00265,Delhi,Deep Cleaning,2026-01-03,18,Saturday,sunny,1316,53,3.2,cancelled,0.56
+UC00266,Pune,AC Repair,2026-05-02,8,Saturday,cloudy,770,172,4.7,completed,0.7
+UC00267,Mumbai,AC Repair,2025-10-19,11,Sunday,humid,870,114,3.1,completed,0.78
+UC00268,Mumbai,AC Repair,2026-01-22,21,Thursday,rainy,753,98,4.2,cancelled,0.95
+UC00269,Chennai,Electrician,2026-02-01,11,Sunday,humid,498,129,3.8,completed,0.85
+UC00270,Chennai,Plumbing,2026-08-19,19,Wednesday,rainy,362,70,3.9,completed,0.54
+UC00271,Kolkata,Carpentry,2026-07-12,13,Sunday,sunny,711,114,4.6,cancelled,0.64
+UC00272,Hyderabad,Carpentry,2026-03-02,10,Monday,humid,718,142,3.2,no_show,0.51
+UC00273,Bangalore,Plumbing,2026-01-05,12,Monday,cloudy,446,84,4.5,completed,0.55
+UC00274,Delhi,AC Repair,2025-10-17,15,Friday,rainy,943,114,3.2,completed,0.43
+UC00275,Bangalore,Carpentry,2026-04-18,8,Saturday,sunny,639,68,4.2,completed,0.9
+UC00276,Hyderabad,Pest Control,2025-09-07,14,Sunday,sunny,834,107,4.1,completed,0.78
+UC00277,Delhi,Electrician,2025-11-26,12,Wednesday,rainy,525,82,3.1,cancelled,0.49
+UC00278,Kolkata,Salon at Home,2026-02-01,9,Sunday,rainy,363,108,4.4,cancelled,0.72
+UC00279,Bangalore,Salon at Home,2025-12-10,10,Wednesday,rainy,300,146,3.7,no_show,0.57
+UC00280,Delhi,Salon at Home,2026-02-16,14,Monday,humid,333,121,3.6,completed,0.64
+UC00281,Delhi,Carpentry,2025-11-30,12,Sunday,partly_cloudy,696,107,3.7,completed,0.87
+UC00282,Bangalore,Painting,2026-03-21,17,Saturday,cloudy,3100,91,4.4,no_show,0.32
+UC00283,Hyderabad,Deep Cleaning,2026-04-25,20,Saturday,rainy,1326,62,4.6,cancelled,0.77
+UC00284,Mumbai,Pest Control,2025-11-11,12,Tuesday,cloudy,832,153,4.6,completed,0.61
+UC00285,Chennai,Salon at Home,2026-07-04,14,Saturday,humid,428,152,4.1,completed,0.79
+UC00286,Bangalore,Plumbing,2026-06-02,20,Tuesday,cloudy,517,135,3.3,no_show,0.33
+UC00287,Kolkata,Carpentry,2026-07-28,13,Tuesday,partly_cloudy,576,47,3.2,completed,0.66
+UC00288,Hyderabad,Deep Cleaning,2026-05-24,13,Sunday,partly_cloudy,1267,173,3.3,completed,0.64
+UC00289,Bangalore,Carpentry,2026-01-30,9,Friday,cloudy,638,124,3.7,completed,0.66
+UC00290,Bangalore,Salon at Home,2026-02-26,15,Thursday,partly_cloudy,380,62,3.6,completed,0.32
+UC00291,Pune,Plumbing,2026-02-23,20,Monday,cloudy,538,107,4.0,no_show,0.41
+UC00292,Hyderabad,Carpentry,2026-06-14,11,Sunday,partly_cloudy,710,92,3.4,cancelled,0.58
+UC00293,Hyderabad,Deep Cleaning,2026-07-12,17,Sunday,partly_cloudy,1248,46,4.4,completed,0.49
+UC00294,Chennai,Plumbing,2026-08-27,9,Thursday,humid,396,138,3.7,cancelled,0.38
+UC00295,Chennai,Salon at Home,2026-08-10,18,Monday,rainy,451,144,4.2,no_show,0.38
+UC00296,Chennai,Salon at Home,2026-02-28,10,Saturday,rainy,456,66,4.3,completed,0.38
+UC00297,Mumbai,Plumbing,2026-02-04,13,Wednesday,cloudy,479,144,3.8,completed,0.7
+UC00298,Hyderabad,Electrician,2026-04-05,18,Sunday,humid,576,89,4.1,cancelled,0.5
+UC00299,Kolkata,Painting,2025-12-05,15,Friday,humid,2962,136,4.9,cancelled,0.4
+UC00300,Hyderabad,Salon at Home,2026-03-16,18,Monday,partly_cloudy,405,158,4.0,completed,0.7
+UC00301,Bangalore,Pest Control,2025-12-22,12,Monday,cloudy,786,118,3.3,cancelled,0.7
+UC00302,Chennai,Plumbing,2026-05-12,9,Tuesday,rainy,547,138,4.1,completed,0.83
+UC00303,Hyderabad,Deep Cleaning,2026-04-14,9,Tuesday,cloudy,1225,53,3.9,completed,0.9
+UC00304,Kolkata,Salon at Home,2025-10-15,9,Wednesday,cloudy,352,134,4.7,no_show,0.74
+UC00305,Kolkata,Electrician,2025-11-24,11,Monday,cloudy,414,134,4.1,no_show,0.68
+UC00306,Delhi,Pest Control,2026-02-13,17,Friday,rainy,780,69,3.3,cancelled,0.94
+UC00307,Pune,Electrician,2026-01-20,21,Tuesday,cloudy,462,82,4.4,completed,0.83
+UC00308,Hyderabad,Carpentry,2026-08-13,10,Thursday,humid,710,113,4.3,cancelled,0.62
+UC00309,Hyderabad,Plumbing,2026-07-22,16,Wednesday,rainy,526,139,3.9,cancelled,0.53
+UC00310,Pune,Plumbing,2025-09-02,15,Tuesday,rainy,365,146,3.4,cancelled,0.88
+UC00311,Delhi,Pest Control,2026-05-12,21,Tuesday,rainy,735,78,4.1,cancelled,0.85
+UC00312,Bangalore,AC Repair,2026-08-16,9,Sunday,partly_cloudy,753,76,4.9,completed,0.61
+UC00313,Mumbai,Carpentry,2025-09-01,19,Monday,cloudy,715,122,3.3,completed,0.37
+UC00314,Bangalore,Pest Control,2026-03-04,13,Wednesday,cloudy,662,146,4.3,completed,0.6
+UC00315,Bangalore,Plumbing,2025-10-17,11,Friday,partly_cloudy,368,78,4.2,no_show,0.78
+UC00316,Pune,AC Repair,2025-09-05,13,Friday,sunny,857,78,4.0,completed,0.57
+UC00317,Delhi,Plumbing,2025-10-23,13,Thursday,rainy,384,142,4.5,completed,0.75
+UC00318,Bangalore,Electrician,2026-08-13,16,Thursday,humid,401,87,3.9,completed,0.74
+UC00319,Chennai,Carpentry,2025-11-17,18,Monday,partly_cloudy,604,67,4.8,completed,0.83
+UC00320,Delhi,Carpentry,2026-06-29,14,Monday,rainy,584,108,3.6,completed,0.47
+UC00321,Kolkata,Pest Control,2026-07-05,19,Sunday,sunny,817,122,3.4,no_show,0.66
+UC00322,Pune,Pest Control,2026-03-20,8,Friday,cloudy,775,143,3.2,cancelled,0.75
+UC00323,Delhi,AC Repair,2025-10-07,13,Tuesday,cloudy,848,152,3.7,completed,0.83
+UC00324,Chennai,AC Repair,2025-10-08,9,Wednesday,sunny,816,100,3.1,completed,0.96
+UC00325,Pune,Pest Control,2026-03-23,19,Monday,humid,845,151,3.8,cancelled,0.36
+UC00326,Delhi,Electrician,2026-06-02,9,Tuesday,rainy,419,175,4.8,completed,0.68
+UC00327,Delhi,Plumbing,2026-03-20,19,Friday,partly_cloudy,535,106,3.1,completed,0.95
+UC00328,Chennai,Salon at Home,2025-10-30,17,Thursday,sunny,378,89,3.2,completed,0.79
+UC00329,Delhi,Salon at Home,2025-11-23,16,Sunday,humid,499,111,3.3,completed,0.82
+UC00330,Kolkata,Plumbing,2026-01-16,8,Friday,rainy,458,114,4.0,completed,0.8
+UC00331,Hyderabad,Plumbing,2026-06-23,15,Tuesday,humid,441,59,4.0,no_show,0.42
+UC00332,Kolkata,Pest Control,2025-11-20,9,Thursday,humid,821,74,3.5,no_show,0.3
+UC00333,Bangalore,Deep Cleaning,2025-09-07,15,Sunday,rainy,1247,83,3.4,completed,0.69
+UC00334,Mumbai,Carpentry,2026-08-02,13,Sunday,cloudy,655,126,3.5,completed,0.7
+UC00335,Mumbai,AC Repair,2025-11-01,11,Saturday,humid,760,147,3.1,cancelled,0.91
+UC00336,Bangalore,Painting,2026-02-07,16,Saturday,partly_cloudy,2951,139,3.4,no_show,0.85
+UC00337,Hyderabad,Deep Cleaning,2026-07-16,13,Thursday,humid,1275,95,4.5,no_show,0.83
+UC00338,Bangalore,Electrician,2026-01-04,14,Sunday,sunny,458,133,4.3,completed,0.97
+UC00339,Kolkata,Carpentry,2025-09-01,19,Monday,rainy,575,97,4.1,completed,0.59
+UC00340,Pune,Electrician,2025-10-01,12,Wednesday,sunny,410,104,4.8,no_show,0.59
+UC00341,Pune,Salon at Home,2026-03-10,9,Tuesday,humid,323,174,3.3,cancelled,0.35
+UC00342,Hyderabad,AC Repair,2026-06-18,18,Thursday,cloudy,809,119,3.5,completed,0.95
+UC00343,Delhi,Painting,2026-03-21,15,Saturday,rainy,3008,64,4.9,completed,0.85
+UC00344,Mumbai,Plumbing,2026-06-27,9,Saturday,cloudy,464,164,3.6,completed,0.68
+UC00345,Delhi,Salon at Home,2025-12-16,15,Tuesday,rainy,329,68,3.3,completed,0.88
+UC00346,Mumbai,AC Repair,2026-08-23,21,Sunday,rainy,786,68,4.4,completed,0.58
+UC00347,Delhi,Pest Control,2025-09-26,21,Friday,cloudy,656,148,4.7,no_show,0.82
+UC00348,Hyderabad,Plumbing,2026-01-06,9,Tuesday,cloudy,380,48,3.1,completed,0.39
+UC00349,Pune,Painting,2026-03-25,18,Wednesday,sunny,3098,111,4.8,completed,0.32
+UC00350,Pune,Deep Cleaning,2025-10-04,15,Saturday,cloudy,1172,129,3.2,cancelled,0.34
+UC00351,Kolkata,Carpentry,2026-06-21,19,Sunday,partly_cloudy,676,52,3.8,cancelled,0.42
+UC00352,Delhi,Electrician,2025-12-19,12,Friday,partly_cloudy,437,53,4.2,no_show,0.47
+UC00353,Hyderabad,Salon at Home,2026-01-30,16,Friday,partly_cloudy,314,67,3.6,completed,0.59
+UC00354,Pune,Deep Cleaning,2026-07-27,20,Monday,humid,1153,142,4.6,completed,0.64
+UC00355,Chennai,Painting,2026-05-07,16,Thursday,rainy,3048,114,3.4,completed,0.72
+UC00356,Bangalore,Pest Control,2025-09-16,20,Tuesday,partly_cloudy,784,136,4.5,completed,0.98
+UC00357,Pune,Deep Cleaning,2025-10-22,11,Wednesday,rainy,1285,59,4.5,completed,0.7
+UC00358,Kolkata,Painting,2026-03-18,21,Wednesday,cloudy,2994,105,4.2,completed,0.94
+UC00359,Chennai,Painting,2025-09-15,17,Monday,cloudy,3093,93,4.7,cancelled,0.68
+UC00360,Bangalore,Salon at Home,2025-11-29,9,Saturday,sunny,358,101,3.0,cancelled,0.3
+UC00361,Kolkata,Deep Cleaning,2026-07-12,10,Sunday,rainy,1332,90,4.8,completed,0.34
+UC00362,Kolkata,Electrician,2025-11-15,9,Saturday,humid,492,63,3.7,cancelled,0.71
+UC00363,Delhi,Pest Control,2026-02-20,10,Friday,cloudy,836,156,4.6,cancelled,0.75
+UC00364,Mumbai,Painting,2025-11-29,18,Saturday,humid,2993,141,3.6,completed,0.39
+UC00365,Kolkata,Carpentry,2025-09-01,20,Monday,humid,557,91,4.2,no_show,0.45
+UC00366,Hyderabad,Plumbing,2026-06-17,10,Wednesday,rainy,539,64,3.5,completed,0.42
+UC00367,Hyderabad,Painting,2025-10-16,8,Thursday,rainy,3002,108,4.4,completed,0.48
+UC00368,Bangalore,AC Repair,2025-10-26,14,Sunday,partly_cloudy,936,152,4.9,cancelled,0.65
+UC00369,Chennai,Painting,2026-03-13,14,Friday,sunny,3071,102,3.3,completed,0.86
+UC00370,Bangalore,Pest Control,2025-09-18,13,Thursday,rainy,675,63,3.7,cancelled,0.41
+UC00371,Delhi,Plumbing,2025-10-09,17,Thursday,humid,472,52,3.9,completed,0.73
+UC00372,Bangalore,Electrician,2026-04-11,9,Saturday,rainy,451,93,3.8,no_show,0.81
+UC00373,Pune,Pest Control,2026-06-04,12,Thursday,rainy,709,69,3.1,no_show,0.68
+UC00374,Bangalore,Electrician,2026-05-10,13,Sunday,sunny,508,67,3.6,no_show,0.64
+UC00375,Mumbai,AC Repair,2025-10-20,10,Monday,rainy,769,166,4.7,completed,0.85
+UC00376,Pune,Salon at Home,2026-04-30,12,Thursday,sunny,463,144,3.4,cancelled,0.56
+UC00377,Delhi,AC Repair,2026-04-17,15,Friday,partly_cloudy,816,102,4.7,no_show,0.34
+UC00378,Bangalore,Plumbing,2026-08-23,18,Sunday,rainy,487,150,4.9,no_show,0.46
+UC00379,Kolkata,Carpentry,2025-10-02,16,Thursday,partly_cloudy,686,166,4.1,completed,0.63
+UC00380,Kolkata,Carpentry,2025-10-11,19,Saturday,sunny,677,177,4.6,no_show,0.4
+UC00381,Mumbai,Electrician,2026-04-18,11,Saturday,cloudy,431,55,3.8,cancelled,0.44
+UC00382,Kolkata,Electrician,2026-07-19,17,Sunday,rainy,480,62,3.2,no_show,0.58
+UC00383,Chennai,Pest Control,2026-02-14,15,Saturday,sunny,828,178,4.6,completed,0.59
+UC00384,Bangalore,Plumbing,2025-11-15,17,Saturday,sunny,422,133,4.8,completed,0.57
+UC00385,Bangalore,Salon at Home,2026-05-07,10,Thursday,rainy,402,81,4.2,cancelled,0.33
+UC00386,Bangalore,Deep Cleaning,2026-02-17,19,Tuesday,partly_cloudy,1217,140,3.0,completed,0.52
+UC00387,Kolkata,Plumbing,2026-05-10,11,Sunday,cloudy,425,158,4.5,completed,0.49
+UC00388,Mumbai,Plumbing,2026-04-02,15,Thursday,cloudy,453,169,4.5,completed,0.87
+UC00389,Bangalore,Electrician,2026-05-22,12,Friday,humid,502,79,4.6,no_show,0.92
+UC00390,Mumbai,Electrician,2025-09-15,21,Monday,cloudy,413,108,3.1,completed,0.94
+UC00391,Delhi,Deep Cleaning,2026-08-27,13,Thursday,partly_cloudy,1278,146,4.3,completed,0.78
+UC00392,Hyderabad,Painting,2026-01-02,17,Friday,partly_cloudy,2994,166,4.2,completed,0.54
+UC00393,Delhi,Plumbing,2026-01-11,8,Sunday,partly_cloudy,361,86,4.7,completed,0.9
+UC00394,Pune,Deep Cleaning,2026-07-29,11,Wednesday,rainy,1315,149,4.0,completed,0.63
+UC00395,Chennai,Electrician,2025-11-07,20,Friday,sunny,456,109,4.2,completed,0.8
+UC00396,Hyderabad,Pest Control,2026-08-30,14,Sunday,rainy,766,109,3.4,completed,0.77
+UC00397,Chennai,Carpentry,2026-07-17,9,Friday,sunny,679,140,4.1,no_show,0.73
+UC00398,Hyderabad,Plumbing,2026-01-31,9,Saturday,rainy,419,128,4.7,completed,0.76
+UC00399,Mumbai,Pest Control,2026-07-31,10,Friday,humid,844,106,4.8,no_show,0.58
+UC00400,Pune,Electrician,2026-02-11,8,Wednesday,partly_cloudy,474,111,4.8,cancelled,0.57
+UC00401,Delhi,Deep Cleaning,2025-09-19,19,Friday,cloudy,1324,166,4.8,completed,0.66
+UC00402,Delhi,Electrician,2025-11-27,9,Thursday,partly_cloudy,431,111,4.5,no_show,0.83
+UC00403,Pune,Painting,2025-12-03,9,Wednesday,cloudy,3039,102,4.5,completed,0.59
+UC00404,Delhi,Painting,2026-02-17,17,Tuesday,rainy,3067,75,3.9,no_show,0.71
+UC00405,Hyderabad,Plumbing,2026-07-15,11,Wednesday,humid,379,142,4.1,cancelled,0.34
+UC00406,Mumbai,Electrician,2025-11-17,13,Monday,partly_cloudy,544,162,3.3,completed,0.85
+UC00407,Pune,Painting,2026-05-08,10,Friday,rainy,3111,59,3.0,completed,0.45
+UC00408,Hyderabad,Electrician,2025-11-26,20,Wednesday,sunny,432,156,4.3,cancelled,0.6
+UC00409,Bangalore,Carpentry,2026-05-03,8,Sunday,humid,600,140,4.9,completed,0.83
+UC00410,Bangalore,Deep Cleaning,2026-05-30,18,Saturday,sunny,1309,108,3.5,completed,0.52
+UC00411,Chennai,Carpentry,2025-10-23,17,Thursday,rainy,591,61,4.6,completed,0.96
+UC00412,Hyderabad,Painting,2026-04-22,18,Wednesday,cloudy,3036,170,3.7,completed,0.42
+UC00413,Mumbai,AC Repair,2026-03-26,11,Thursday,cloudy,803,50,4.2,completed,0.39
+UC00414,Hyderabad,AC Repair,2026-08-31,18,Monday,rainy,946,57,4.2,completed,0.76
+UC00415,Bangalore,AC Repair,2026-08-01,19,Saturday,sunny,855,158,3.8,no_show,0.48
+UC00416,Mumbai,Electrician,2026-08-26,19,Wednesday,sunny,476,152,4.3,no_show,0.49
+UC00417,Hyderabad,Electrician,2026-07-08,21,Wednesday,sunny,529,75,3.6,completed,0.65
+UC00418,Kolkata,Deep Cleaning,2026-07-09,12,Thursday,humid,1200,136,4.4,completed,0.41
+UC00419,Mumbai,Salon at Home,2026-06-08,19,Monday,partly_cloudy,383,105,3.0,completed,0.93
+UC00420,Mumbai,Salon at Home,2026-06-21,9,Sunday,humid,318,70,4.8,completed,0.62
+UC00421,Hyderabad,Pest Control,2026-01-30,8,Friday,sunny,693,55,4.7,completed,0.86
+UC00422,Pune,Carpentry,2026-02-08,9,Sunday,sunny,743,56,3.0,completed,0.76
+UC00423,Delhi,Painting,2025-11-27,15,Thursday,humid,3017,68,3.7,completed,0.43
+UC00424,Hyderabad,Carpentry,2026-03-25,12,Wednesday,partly_cloudy,725,167,4.6,completed,0.38
+UC00425,Kolkata,AC Repair,2026-08-23,10,Sunday,sunny,855,168,4.6,cancelled,0.43
+UC00426,Chennai,Painting,2026-03-14,8,Saturday,cloudy,3072,169,3.2,cancelled,0.61
+UC00427,Pune,Pest Control,2025-10-03,13,Friday,sunny,829,179,4.5,no_show,0.81
+UC00428,Chennai,Painting,2025-12-24,16,Wednesday,humid,2973,155,4.3,completed,0.64
+UC00429,Mumbai,Carpentry,2026-08-06,21,Thursday,humid,705,58,3.0,completed,0.65
+UC00430,Kolkata,Salon at Home,2026-04-29,10,Wednesday,sunny,491,170,3.6,completed,0.98
+UC00431,Chennai,Deep Cleaning,2025-09-26,18,Friday,partly_cloudy,1252,105,3.2,cancelled,0.86
+UC00432,Kolkata,Plumbing,2026-04-18,15,Saturday,partly_cloudy,429,75,5.0,completed,0.37
+UC00433,Chennai,AC Repair,2026-03-31,16,Tuesday,sunny,772,122,4.8,no_show,0.44
+UC00434,Delhi,Salon at Home,2026-08-10,13,Monday,sunny,356,161,3.7,no_show,0.72
+UC00435,Pune,Painting,2026-08-03,15,Monday,sunny,2973,101,3.0,completed,0.88
+UC00436,Pune,Painting,2026-01-28,9,Wednesday,sunny,2991,171,3.3,cancelled,0.37
+UC00437,Mumbai,Deep Cleaning,2026-07-10,9,Friday,partly_cloudy,1204,162,4.6,completed,0.8
+UC00438,Bangalore,Carpentry,2025-10-26,18,Sunday,humid,580,160,3.9,no_show,0.97
+UC00439,Bangalore,Salon at Home,2025-11-08,16,Saturday,sunny,440,155,4.7,cancelled,0.95
+UC00440,Pune,Electrician,2025-11-30,21,Sunday,cloudy,425,144,4.3,no_show,0.92
+UC00441,Hyderabad,Carpentry,2026-05-17,17,Sunday,cloudy,619,146,4.9,completed,0.62
+UC00442,Hyderabad,Electrician,2025-11-08,17,Saturday,humid,475,125,4.4,no_show,0.74
+UC00443,Chennai,Deep Cleaning,2025-12-12,19,Friday,rainy,1324,133,4.8,completed,0.99
+UC00444,Chennai,Electrician,2026-07-30,16,Thursday,rainy,580,74,4.5,no_show,0.64
+UC00445,Pune,Carpentry,2026-06-20,19,Saturday,humid,622,153,4.6,no_show,0.37
+UC00446,Bangalore,Electrician,2026-03-15,18,Sunday,sunny,450,113,4.5,completed,0.99
+UC00447,Mumbai,Pest Control,2026-08-16,21,Sunday,sunny,825,120,3.4,no_show,0.32
+UC00448,Chennai,Plumbing,2026-04-20,21,Monday,humid,406,144,3.5,completed,0.79
+UC00449,Hyderabad,Carpentry,2025-09-25,14,Thursday,rainy,690,58,3.0,completed,0.44
+UC00450,Pune,Deep Cleaning,2026-04-15,19,Wednesday,rainy,1342,95,4.6,completed,0.51
+UC00451,Mumbai,Plumbing,2025-11-30,10,Sunday,humid,379,141,3.1,completed,0.69
+UC00452,Chennai,Electrician,2025-11-06,21,Thursday,rainy,400,129,3.9,completed,0.33
+UC00453,Kolkata,AC Repair,2026-02-13,18,Friday,humid,918,122,4.0,no_show,0.69
+UC00454,Chennai,Painting,2025-10-08,11,Wednesday,cloudy,3082,62,4.6,completed,0.59
+UC00455,Bangalore,Carpentry,2026-06-02,13,Tuesday,cloudy,603,129,3.7,completed,0.45
+UC00456,Chennai,Salon at Home,2026-07-14,21,Tuesday,sunny,328,133,3.9,no_show,0.94
+UC00457,Pune,AC Repair,2026-01-03,13,Saturday,partly_cloudy,778,143,3.5,completed,0.32
+UC00458,Chennai,Painting,2026-05-23,20,Saturday,humid,3063,169,3.1,completed,0.52
+UC00459,Mumbai,Plumbing,2025-10-13,20,Monday,humid,485,46,4.3,completed,0.77
+UC00460,Kolkata,Carpentry,2025-12-19,9,Friday,cloudy,686,156,4.3,completed,0.82
+UC00461,Hyderabad,AC Repair,2025-11-18,19,Tuesday,rainy,758,67,3.1,completed,0.86
+UC00462,Chennai,Plumbing,2026-06-13,21,Saturday,cloudy,415,149,3.8,cancelled,0.6
+UC00463,Pune,Carpentry,2025-09-09,9,Tuesday,humid,550,61,4.5,no_show,0.33
+UC00464,Chennai,Painting,2025-10-08,9,Wednesday,rainy,3124,122,4.2,completed,0.84
+UC00465,Hyderabad,Carpentry,2026-04-13,21,Monday,sunny,670,85,4.1,completed,0.82
+UC00466,Pune,Pest Control,2026-06-07,10,Sunday,rainy,822,140,4.9,completed,0.69
+UC00467,Bangalore,Electrician,2026-06-12,8,Friday,sunny,545,145,4.1,completed,0.51
+UC00468,Hyderabad,Deep Cleaning,2026-02-24,18,Tuesday,humid,1185,86,3.4,no_show,0.88
+UC00469,Mumbai,Plumbing,2025-12-09,18,Tuesday,humid,362,163,4.3,completed,0.5
+UC00470,Bangalore,Pest Control,2025-10-05,11,Sunday,humid,773,129,3.7,completed,0.37
+UC00471,Mumbai,Plumbing,2026-07-15,13,Wednesday,partly_cloudy,464,129,4.2,completed,0.79
+UC00472,Kolkata,Painting,2025-11-18,13,Tuesday,partly_cloudy,2992,46,3.6,completed,0.8
+UC00473,Delhi,Carpentry,2026-07-26,21,Sunday,rainy,583,129,4.8,cancelled,0.61
+UC00474,Chennai,Salon at Home,2026-02-04,9,Wednesday,cloudy,464,65,4.7,completed,0.92
+UC00475,Pune,Pest Control,2025-12-10,18,Wednesday,sunny,835,64,4.8,no_show,0.74
+UC00476,Kolkata,Carpentry,2026-06-25,17,Thursday,cloudy,558,111,4.1,no_show,0.63
+UC00477,Hyderabad,Painting,2025-11-16,11,Sunday,humid,3136,119,3.3,no_show,0.66
+UC00478,Chennai,Painting,2026-03-23,8,Monday,cloudy,3106,87,4.5,completed,0.61
+UC00479,Pune,Electrician,2025-12-01,19,Monday,partly_cloudy,490,55,3.4,cancelled,0.46
+UC00480,Mumbai,Painting,2026-01-14,8,Wednesday,cloudy,3081,137,3.8,cancelled,0.92
+UC00481,Bangalore,Painting,2025-09-21,19,Sunday,humid,3111,115,4.7,completed,0.71
+UC00482,Hyderabad,Electrician,2026-06-19,18,Friday,partly_cloudy,492,64,4.0,cancelled,0.98
+UC00483,Delhi,Carpentry,2025-12-24,21,Wednesday,rainy,673,168,4.8,completed,0.65
+UC00484,Mumbai,Salon at Home,2025-11-11,11,Tuesday,sunny,430,116,3.4,completed,0.41
+UC00485,Pune,Plumbing,2026-07-06,11,Monday,partly_cloudy,433,74,4.0,cancelled,0.64
+UC00486,Pune,Electrician,2026-06-30,21,Tuesday,partly_cloudy,404,107,3.1,no_show,0.71
+UC00487,Chennai,AC Repair,2025-11-08,10,Saturday,sunny,791,111,4.8,no_show,0.97
+UC00488,Pune,AC Repair,2026-07-04,19,Saturday,rainy,770,100,3.9,cancelled,0.91
+UC00489,Kolkata,Deep Cleaning,2025-11-27,14,Thursday,humid,1185,91,4.2,no_show,0.49
+UC00490,Hyderabad,Painting,2026-08-18,17,Tuesday,humid,2966,103,3.8,completed,0.38
+UC00491,Kolkata,Carpentry,2025-12-13,10,Saturday,humid,573,90,4.0,no_show,0.72
+UC00492,Bangalore,Plumbing,2026-05-31,15,Sunday,cloudy,503,45,4.8,cancelled,0.67
+UC00493,Pune,AC Repair,2026-03-09,16,Monday,partly_cloudy,807,168,4.6,cancelled,0.55
+UC00494,Hyderabad,Plumbing,2026-08-23,10,Sunday,rainy,471,104,4.8,completed,0.5
+UC00495,Delhi,Carpentry,2026-06-06,11,Saturday,sunny,730,46,4.2,completed,0.66
+UC00496,Pune,Deep Cleaning,2026-03-12,20,Thursday,rainy,1253,137,3.2,cancelled,0.76
+UC00497,Kolkata,Pest Control,2026-01-08,16,Thursday,partly_cloudy,793,138,4.2,cancelled,0.83
+UC00498,Mumbai,Salon at Home,2026-03-31,13,Tuesday,humid,441,168,3.5,completed,0.7
+UC00499,Pune,Carpentry,2026-08-28,10,Friday,sunny,740,103,3.9,completed,0.37
+UC00500,Kolkata,Carpentry,2026-05-19,13,Tuesday,humid,706,58,3.3,completed,0.86
+UC00501,Chennai,Salon at Home,2025-11-14,14,Friday,sunny,315,112,3.4,completed,0.73
+UC00502,Chennai,Carpentry,2026-03-16,18,Monday,humid,622,59,4.9,completed,0.75
+UC00503,Mumbai,AC Repair,2026-04-13,21,Monday,humid,822,94,3.1,no_show,0.66
+UC00504,Chennai,Deep Cleaning,2026-08-24,10,Monday,sunny,1241,106,4.3,completed,0.36
+UC00505,Delhi,Carpentry,2026-01-20,18,Tuesday,partly_cloudy,652,96,4.0,completed,0.94
+UC00506,Pune,Pest Control,2026-06-09,21,Tuesday,humid,798,134,3.7,completed,0.46
+UC00507,Hyderabad,Salon at Home,2025-12-09,17,Tuesday,sunny,365,89,3.8,completed,0.69
+UC00508,Delhi,Pest Control,2026-05-16,9,Saturday,humid,714,109,4.4,cancelled,0.69
+UC00509,Kolkata,Painting,2026-01-03,15,Saturday,partly_cloudy,3099,52,4.0,completed,0.35
+UC00510,Pune,Deep Cleaning,2026-07-22,19,Wednesday,cloudy,1229,150,4.9,no_show,0.67
+UC00511,Mumbai,Pest Control,2026-08-25,12,Tuesday,sunny,751,132,3.2,completed,0.63
+UC00512,Chennai,Deep Cleaning,2026-03-01,12,Sunday,cloudy,1340,93,4.0,completed,0.46
+UC00513,Mumbai,Pest Control,2026-01-02,11,Friday,cloudy,712,136,3.3,completed,0.38
+UC00514,Chennai,Salon at Home,2025-10-11,8,Saturday,humid,309,168,3.7,completed,0.64
+UC00515,Hyderabad,Pest Control,2026-06-22,10,Monday,humid,720,146,3.4,no_show,0.39
+UC00516,Hyderabad,Carpentry,2026-05-28,16,Thursday,sunny,677,133,3.8,completed,0.62
+UC00517,Delhi,Salon at Home,2025-11-01,19,Saturday,sunny,302,98,3.8,completed,0.53
+UC00518,Mumbai,Pest Control,2026-07-11,16,Saturday,rainy,709,113,3.9,no_show,0.54
+UC00519,Hyderabad,Salon at Home,2025-12-04,11,Thursday,partly_cloudy,478,140,3.7,cancelled,0.5
+UC00520,Chennai,Electrician,2025-12-02,18,Tuesday,cloudy,424,114,4.6,no_show,0.6
+UC00521,Mumbai,Deep Cleaning,2026-03-15,20,Sunday,cloudy,1270,47,3.4,cancelled,0.39
+UC00522,Kolkata,Painting,2026-07-20,15,Monday,rainy,3013,57,3.8,completed,0.34
+UC00523,Kolkata,Salon at Home,2026-01-09,18,Friday,sunny,414,130,3.5,completed,0.69
+UC00524,Bangalore,Painting,2026-01-10,14,Saturday,sunny,3038,95,4.2,no_show,0.42
+UC00525,Delhi,Painting,2026-01-24,18,Saturday,humid,3073,159,4.8,cancelled,0.73
+UC00526,Kolkata,Electrician,2026-04-26,10,Sunday,rainy,506,148,4.7,completed,0.36
+UC00527,Delhi,Deep Cleaning,2026-02-23,13,Monday,rainy,1330,113,4.2,cancelled,0.49
+UC00528,Pune,Painting,2026-04-16,17,Thursday,humid,3064,150,3.3,completed,0.39
+UC00529,Pune,Pest Control,2025-12-30,19,Tuesday,sunny,702,87,3.8,completed,0.34
+UC00530,Bangalore,AC Repair,2026-05-01,20,Friday,partly_cloudy,883,66,3.2,no_show,0.41
+UC00531,Delhi,Carpentry,2026-08-02,11,Sunday,cloudy,737,117,3.9,completed,0.39
+UC00532,Bangalore,AC Repair,2025-11-27,18,Thursday,rainy,832,166,3.9,no_show,0.95
+UC00533,Mumbai,Salon at Home,2026-06-08,19,Monday,humid,344,161,4.3,no_show,0.6
+UC00534,Delhi,Pest Control,2026-07-25,15,Saturday,humid,707,67,3.9,completed,0.59
+UC00535,Bangalore,Pest Control,2025-11-19,8,Wednesday,humid,843,79,3.7,cancelled,0.67
+UC00536,Kolkata,Salon at Home,2026-08-19,15,Wednesday,rainy,301,155,4.6,no_show,0.46
+UC00537,Mumbai,Painting,2025-09-04,14,Thursday,humid,3060,146,3.5,cancelled,0.88
+UC00538,Bangalore,Pest Control,2025-12-22,14,Monday,cloudy,781,114,3.6,no_show,0.87
+UC00539,Kolkata,Deep Cleaning,2026-03-31,9,Tuesday,cloudy,1183,119,3.2,cancelled,0.73
+UC00540,Mumbai,Salon at Home,2026-01-18,13,Sunday,sunny,337,57,4.9,completed,0.43
+UC00541,Delhi,Pest Control,2025-10-23,10,Thursday,partly_cloudy,835,47,3.5,completed,0.31
+UC00542,Hyderabad,Painting,2025-12-21,12,Sunday,partly_cloudy,3044,163,4.4,completed,0.53
+UC00543,Delhi,AC Repair,2025-11-14,20,Friday,partly_cloudy,767,165,3.4,completed,0.87
+UC00544,Kolkata,Plumbing,2025-09-07,19,Sunday,cloudy,447,158,3.5,completed,0.44
+UC00545,Hyderabad,Deep Cleaning,2025-10-19,14,Sunday,rainy,1231,85,4.3,completed,0.82
+UC00546,Delhi,Plumbing,2026-06-09,15,Tuesday,rainy,399,137,4.8,completed,0.98
+UC00547,Delhi,Carpentry,2025-12-30,8,Tuesday,cloudy,619,75,3.8,completed,0.31
+UC00548,Pune,Salon at Home,2025-09-22,17,Monday,cloudy,394,67,3.5,cancelled,0.36
+UC00549,Kolkata,Painting,2026-07-14,18,Tuesday,sunny,2964,136,4.3,no_show,0.85
+UC00550,Mumbai,Salon at Home,2025-11-04,13,Tuesday,humid,464,133,4.6,cancelled,0.81
+UC00551,Delhi,Carpentry,2025-09-11,19,Thursday,cloudy,613,55,4.0,cancelled,0.69
+UC00552,Mumbai,Salon at Home,2026-06-05,17,Friday,cloudy,438,134,3.6,cancelled,0.49
+UC00553,Bangalore,Electrician,2026-07-04,16,Saturday,cloudy,514,120,4.6,no_show,0.56
+UC00554,Pune,Carpentry,2025-09-01,10,Monday,sunny,707,138,4.6,completed,0.52
+UC00555,Mumbai,Carpentry,2025-10-03,16,Friday,partly_cloudy,745,84,4.2,completed,0.59
+UC00556,Bangalore,Plumbing,2026-02-12,16,Thursday,sunny,360,78,3.4,completed,0.44
+UC00557,Bangalore,Deep Cleaning,2026-05-07,8,Thursday,humid,1313,144,4.3,no_show,0.74
+UC00558,Bangalore,Pest Control,2026-06-30,13,Tuesday,cloudy,804,63,3.0,completed,0.76
+UC00559,Kolkata,Salon at Home,2025-10-11,18,Saturday,sunny,391,151,4.6,completed,0.88
+UC00560,Pune,AC Repair,2026-01-15,9,Thursday,rainy,768,100,4.9,completed,0.37
+UC00561,Mumbai,Carpentry,2025-12-28,11,Sunday,humid,717,108,4.1,completed,0.69
+UC00562,Pune,Carpentry,2026-06-13,9,Saturday,humid,640,162,4.4,cancelled,0.92
+UC00563,Chennai,Electrician,2025-11-25,14,Tuesday,humid,485,85,4.1,no_show,0.61
+UC00564,Chennai,Painting,2026-02-28,13,Saturday,rainy,3054,155,4.7,completed,0.73
+UC00565,Hyderabad,Deep Cleaning,2026-06-16,20,Tuesday,humid,1339,110,3.7,cancelled,0.61
+UC00566,Pune,AC Repair,2026-03-23,8,Monday,rainy,901,49,4.0,completed,0.3
+UC00567,Kolkata,Deep Cleaning,2025-12-23,13,Tuesday,sunny,1346,115,4.8,no_show,0.69
+UC00568,Bangalore,Electrician,2026-06-20,8,Saturday,partly_cloudy,490,84,3.3,completed,0.92
+UC00569,Delhi,Deep Cleaning,2026-01-06,20,Tuesday,rainy,1172,147,4.1,completed,0.81
+UC00570,Mumbai,Salon at Home,2026-02-14,15,Saturday,humid,323,121,3.1,no_show,0.57
+UC00571,Delhi,Painting,2025-09-29,21,Monday,partly_cloudy,3055,75,4.7,completed,0.82
+UC00572,Pune,AC Repair,2026-07-06,20,Monday,partly_cloudy,762,123,4.0,completed,0.68
+UC00573,Chennai,Painting,2025-11-16,19,Sunday,cloudy,2988,57,4.3,cancelled,0.98
+UC00574,Mumbai,Plumbing,2026-07-02,14,Thursday,rainy,449,82,3.3,completed,0.63
+UC00575,Delhi,Carpentry,2025-09-26,9,Friday,partly_cloudy,677,156,4.5,completed,0.83
+UC00576,Hyderabad,Deep Cleaning,2026-05-05,14,Tuesday,humid,1199,179,3.5,completed,0.49
+UC00577,Pune,Painting,2026-04-09,17,Thursday,sunny,2977,150,3.8,completed,0.43
+UC00578,Kolkata,AC Repair,2026-02-24,12,Tuesday,cloudy,838,158,4.2,cancelled,0.33
+UC00579,Pune,Deep Cleaning,2025-12-29,13,Monday,cloudy,1342,66,3.2,completed,0.47
+UC00580,Kolkata,Electrician,2026-07-15,21,Wednesday,rainy,402,132,4.4,completed,0.51
+UC00581,Delhi,AC Repair,2026-04-30,11,Thursday,humid,803,97,4.1,completed,0.68
+UC00582,Pune,Electrician,2026-07-16,19,Thursday,sunny,495,179,3.1,completed,0.34
+UC00583,Bangalore,Pest Control,2025-12-12,15,Friday,sunny,666,144,4.3,completed,0.9
+UC00584,Kolkata,Pest Control,2025-09-10,18,Wednesday,partly_cloudy,708,142,4.0,completed,0.93
+UC00585,Mumbai,Plumbing,2026-05-07,11,Thursday,humid,466,50,3.1,no_show,0.51
+UC00586,Pune,Carpentry,2026-05-09,10,Saturday,sunny,637,135,3.7,completed,0.47
+UC00587,Kolkata,Pest Control,2026-05-15,8,Friday,rainy,748,52,4.9,completed,0.46
+UC00588,Pune,Carpentry,2026-02-22,10,Sunday,sunny,735,142,4.0,no_show,0.91
+UC00589,Hyderabad,Deep Cleaning,2026-08-18,11,Tuesday,humid,1188,154,4.9,no_show,0.53
+UC00590,Mumbai,Electrician,2026-06-05,18,Friday,cloudy,547,96,4.7,completed,0.78
+UC00591,Hyderabad,Electrician,2026-05-27,20,Wednesday,cloudy,566,85,3.6,no_show,0.67
+UC00592,Delhi,Electrician,2025-10-31,21,Friday,cloudy,585,52,4.5,cancelled,0.97
+UC00593,Pune,Salon at Home,2026-02-03,21,Tuesday,rainy,337,93,3.2,completed,0.32
+UC00594,Chennai,Pest Control,2026-07-11,17,Saturday,humid,708,104,3.5,completed,0.55
+UC00595,Mumbai,Salon at Home,2026-08-19,16,Wednesday,humid,419,140,3.4,cancelled,0.64
+UC00596,Mumbai,Electrician,2025-11-10,11,Monday,sunny,503,48,4.9,cancelled,0.46
+UC00597,Kolkata,Deep Cleaning,2026-08-10,11,Monday,sunny,1194,157,4.7,cancelled,0.78
+UC00598,Hyderabad,Deep Cleaning,2026-04-23,14,Thursday,sunny,1304,142,4.4,cancelled,0.73
+UC00599,Chennai,AC Repair,2026-06-20,9,Saturday,partly_cloudy,865,55,4.8,completed,0.66
+UC00600,Chennai,AC Repair,2026-03-22,14,Sunday,humid,944,57,3.4,cancelled,0.58
+UC00601,Hyderabad,Pest Control,2026-02-03,10,Tuesday,partly_cloudy,724,58,4.4,completed,0.62
+UC00602,Bangalore,Salon at Home,2026-07-28,19,Tuesday,humid,327,91,4.6,no_show,0.39
+UC00603,Hyderabad,Painting,2026-03-31,8,Tuesday,cloudy,3065,96,4.8,completed,0.48
+UC00604,Pune,Electrician,2026-08-21,19,Friday,sunny,422,74,4.4,completed,0.36
+UC00605,Pune,Carpentry,2026-08-29,20,Saturday,humid,705,85,3.8,cancelled,0.33
+UC00606,Chennai,Painting,2025-11-27,21,Thursday,cloudy,2990,82,3.4,completed,0.59
+UC00607,Delhi,Salon at Home,2026-02-06,18,Friday,cloudy,329,78,4.9,completed,0.74
+UC00608,Hyderabad,AC Repair,2026-01-08,15,Thursday,partly_cloudy,888,46,4.2,cancelled,0.47
+UC00609,Hyderabad,Salon at Home,2026-06-29,14,Monday,partly_cloudy,319,46,3.5,no_show,0.49
+UC00610,Bangalore,Deep Cleaning,2026-07-19,10,Sunday,cloudy,1163,134,3.1,completed,0.77
+UC00611,Delhi,Pest Control,2026-07-06,9,Monday,sunny,676,151,5.0,completed,0.77
+UC00612,Hyderabad,Electrician,2026-07-10,19,Friday,humid,491,54,3.2,completed,0.53
+UC00613,Kolkata,Plumbing,2026-03-14,14,Saturday,humid,365,119,3.9,completed,0.79
+UC00614,Chennai,Painting,2026-01-19,14,Monday,humid,3002,98,4.2,completed,0.7
+UC00615,Hyderabad,Plumbing,2026-07-20,19,Monday,humid,529,118,3.9,completed,0.48
+UC00616,Mumbai,Painting,2026-06-22,17,Monday,humid,3076,178,4.5,cancelled,0.64
+UC00617,Pune,Deep Cleaning,2025-12-02,12,Tuesday,cloudy,1149,75,3.0,completed,0.82
+UC00618,Hyderabad,Carpentry,2025-12-16,8,Tuesday,rainy,638,99,3.0,completed,0.78
+UC00619,Delhi,Plumbing,2026-01-09,12,Friday,humid,489,127,4.5,completed,0.78
+UC00620,Pune,Carpentry,2026-02-22,17,Sunday,humid,556,89,3.4,completed,0.95
+UC00621,Kolkata,Salon at Home,2026-05-04,8,Monday,cloudy,422,84,4.3,no_show,0.93
+UC00622,Pune,Carpentry,2026-04-25,8,Saturday,humid,625,125,4.1,completed,0.45
+UC00623,Kolkata,Painting,2026-08-17,20,Monday,rainy,2965,83,3.6,completed,0.54
+UC00624,Chennai,Electrician,2026-03-12,17,Thursday,partly_cloudy,446,74,4.7,completed,0.79
+UC00625,Delhi,AC Repair,2026-02-09,14,Monday,sunny,876,105,3.7,completed,0.45
+UC00626,Bangalore,Electrician,2026-02-02,13,Monday,sunny,598,96,4.8,cancelled,0.65
+UC00627,Mumbai,Electrician,2026-05-06,13,Wednesday,partly_cloudy,586,179,3.6,completed,0.4
+UC00628,Mumbai,Electrician,2025-10-21,19,Tuesday,sunny,516,144,4.4,no_show,0.38
+UC00629,Pune,AC Repair,2026-02-07,21,Saturday,humid,771,130,3.9,completed,0.37
+UC00630,Bangalore,Pest Control,2026-08-04,17,Tuesday,rainy,812,98,3.6,completed,0.5
+UC00631,Kolkata,Painting,2026-05-31,15,Sunday,sunny,3018,83,3.3,completed,0.31
+UC00632,Mumbai,Plumbing,2026-07-16,16,Thursday,rainy,489,126,3.5,completed,0.7
+UC00633,Delhi,Plumbing,2025-11-27,17,Thursday,rainy,487,158,3.1,completed,0.63
+UC00634,Bangalore,AC Repair,2026-08-12,14,Wednesday,sunny,771,154,3.8,no_show,0.92
+UC00635,Chennai,Salon at Home,2026-07-20,13,Monday,rainy,384,95,4.4,no_show,0.35
+UC00636,Bangalore,Electrician,2026-04-27,21,Monday,partly_cloudy,423,161,3.6,cancelled,0.63
+UC00637,Kolkata,Electrician,2025-12-24,17,Wednesday,rainy,492,145,3.4,completed,0.85
+UC00638,Hyderabad,Salon at Home,2026-02-14,8,Saturday,sunny,420,73,3.7,cancelled,0.89
+UC00639,Chennai,Painting,2026-01-23,17,Friday,cloudy,3079,71,3.8,completed,0.53
+UC00640,Kolkata,Plumbing,2026-07-30,12,Thursday,humid,467,147,4.2,completed,0.73
+UC00641,Hyderabad,Electrician,2026-06-08,14,Monday,sunny,486,98,4.6,no_show,0.6
+UC00642,Chennai,Painting,2026-04-11,19,Saturday,cloudy,2993,64,4.5,no_show,0.89
+UC00643,Delhi,Salon at Home,2025-10-29,16,Wednesday,sunny,412,90,3.6,cancelled,0.35
+UC00644,Delhi,Carpentry,2025-10-26,15,Sunday,sunny,572,100,4.6,no_show,0.93
+UC00645,Kolkata,AC Repair,2026-07-23,10,Thursday,cloudy,864,119,3.8,no_show,0.61
+UC00646,Delhi,Painting,2025-12-15,17,Monday,rainy,3060,133,5.0,no_show,0.31
+UC00647,Kolkata,Carpentry,2026-05-20,10,Wednesday,rainy,564,139,4.8,completed,0.3
+UC00648,Bangalore,Painting,2026-06-14,21,Sunday,rainy,2956,105,3.9,no_show,0.58
+UC00649,Hyderabad,Carpentry,2026-02-10,14,Tuesday,partly_cloudy,688,99,4.3,cancelled,0.4
+UC00650,Kolkata,Carpentry,2026-06-12,13,Friday,partly_cloudy,588,118,5.0,completed,0.39
+UC00651,Mumbai,AC Repair,2025-10-07,19,Tuesday,partly_cloudy,917,156,4.9,completed,0.36
+UC00652,Kolkata,Carpentry,2026-07-26,15,Sunday,humid,657,91,3.9,cancelled,0.69
+UC00653,Delhi,Carpentry,2026-04-19,11,Sunday,cloudy,657,46,4.2,completed,0.8
+UC00654,Chennai,Carpentry,2026-01-16,17,Friday,rainy,557,54,4.1,completed,0.38
+UC00655,Mumbai,Plumbing,2026-05-05,19,Tuesday,humid,541,116,3.9,completed,0.67
+UC00656,Mumbai,Plumbing,2026-07-10,15,Friday,sunny,524,124,4.2,completed,0.67
+UC00657,Hyderabad,Salon at Home,2025-09-06,16,Saturday,partly_cloudy,445,129,3.8,completed,0.5
+UC00658,Pune,Pest Control,2025-09-19,20,Friday,humid,715,60,4.3,no_show,0.42
+UC00659,Kolkata,Pest Control,2025-09-27,19,Saturday,humid,655,118,4.0,completed,0.65
+UC00660,Mumbai,Pest Control,2026-01-21,17,Wednesday,rainy,719,110,3.0,completed,0.72
+UC00661,Pune,Electrician,2026-06-30,15,Tuesday,rainy,443,111,4.6,completed,0.64
+UC00662,Delhi,AC Repair,2026-05-29,9,Friday,cloudy,901,84,4.7,cancelled,0.84
+UC00663,Pune,Salon at Home,2025-12-31,18,Wednesday,cloudy,352,133,3.1,completed,0.83
+UC00664,Mumbai,AC Repair,2025-10-30,15,Thursday,partly_cloudy,870,122,4.0,no_show,0.46
+UC00665,Hyderabad,Carpentry,2026-08-16,12,Sunday,cloudy,684,156,3.0,cancelled,0.57
+UC00666,Bangalore,AC Repair,2026-02-09,16,Monday,rainy,859,114,3.7,completed,0.86
+UC00667,Hyderabad,Carpentry,2026-01-09,20,Friday,cloudy,736,94,4.0,completed,0.52
+UC00668,Kolkata,AC Repair,2025-09-06,9,Saturday,sunny,854,70,4.1,cancelled,0.55
+UC00669,Mumbai,Pest Control,2026-01-24,8,Saturday,sunny,807,68,3.1,no_show,0.76
+UC00670,Pune,Plumbing,2025-12-21,9,Sunday,sunny,503,78,3.8,no_show,0.86
+UC00671,Pune,Plumbing,2025-12-04,10,Thursday,rainy,424,164,4.3,completed,0.75
+UC00672,Pune,Carpentry,2026-01-20,18,Tuesday,rainy,614,86,4.6,completed,0.84
+UC00673,Delhi,Carpentry,2026-03-15,8,Sunday,rainy,616,90,3.9,cancelled,0.99
+UC00674,Mumbai,Carpentry,2025-12-12,18,Friday,partly_cloudy,576,81,4.1,cancelled,0.45
+UC00675,Hyderabad,Plumbing,2026-07-27,19,Monday,rainy,375,53,3.1,no_show,0.81
+UC00676,Hyderabad,AC Repair,2026-04-17,10,Friday,sunny,758,144,3.5,completed,0.93
+UC00677,Chennai,AC Repair,2026-06-22,19,Monday,partly_cloudy,871,156,3.8,completed,0.68
+UC00678,Pune,Carpentry,2025-09-02,21,Tuesday,partly_cloudy,580,136,3.7,completed,0.58
+UC00679,Delhi,Plumbing,2026-07-21,16,Tuesday,rainy,369,162,4.5,completed,0.75
+UC00680,Hyderabad,AC Repair,2025-11-30,18,Sunday,cloudy,825,144,4.8,completed,0.64
+UC00681,Pune,Salon at Home,2026-07-21,11,Tuesday,cloudy,308,94,3.1,no_show,0.47
+UC00682,Kolkata,Plumbing,2026-03-19,16,Thursday,rainy,476,160,4.9,completed,0.33
+UC00683,Kolkata,Painting,2025-09-29,19,Monday,sunny,3052,75,3.4,no_show,0.62
+UC00684,Pune,Electrician,2026-08-14,17,Friday,cloudy,417,54,4.5,cancelled,0.76
+UC00685,Mumbai,AC Repair,2026-04-30,19,Thursday,cloudy,752,89,4.3,completed,0.87
+UC00686,Chennai,Salon at Home,2025-10-20,10,Monday,humid,315,72,3.2,no_show,0.86
+UC00687,Kolkata,Plumbing,2025-12-22,11,Monday,partly_cloudy,435,147,3.6,no_show,0.68
+UC00688,Kolkata,Deep Cleaning,2026-02-12,8,Thursday,humid,1193,130,3.1,completed,0.4
+UC00689,Pune,Electrician,2026-04-01,13,Wednesday,humid,441,157,3.5,no_show,0.33
+UC00690,Kolkata,Carpentry,2025-10-22,10,Wednesday,sunny,673,65,3.0,completed,0.95
+UC00691,Hyderabad,Pest Control,2026-08-28,19,Friday,partly_cloudy,826,77,3.4,completed,0.67
+UC00692,Mumbai,Deep Cleaning,2026-03-30,17,Monday,sunny,1301,91,4.4,no_show,0.97
+UC00693,Delhi,Pest Control,2026-07-19,14,Sunday,sunny,791,105,3.4,no_show,0.98
+UC00694,Kolkata,Painting,2026-07-14,20,Tuesday,humid,3078,101,3.9,completed,0.49
+UC00695,Kolkata,Plumbing,2025-12-09,10,Tuesday,partly_cloudy,476,90,3.3,completed,0.34
+UC00696,Mumbai,Pest Control,2026-03-06,14,Friday,rainy,734,161,3.1,completed,0.95
+UC00697,Kolkata,Electrician,2025-11-30,8,Sunday,partly_cloudy,530,74,3.1,completed,0.8
+UC00698,Hyderabad,Painting,2026-07-01,11,Wednesday,rainy,3007,73,3.7,completed,0.47
+UC00699,Hyderabad,Deep Cleaning,2026-03-31,11,Tuesday,sunny,1269,169,3.1,cancelled,0.4
+UC00700,Mumbai,Salon at Home,2026-07-10,14,Friday,rainy,333,162,4.4,completed,0.98
+UC00701,Mumbai,Painting,2025-12-13,8,Saturday,humid,2964,116,3.3,cancelled,0.62
+UC00702,Mumbai,Painting,2025-11-27,12,Thursday,humid,2989,88,4.2,no_show,0.9
+UC00703,Kolkata,Carpentry,2025-10-15,16,Wednesday,partly_cloudy,604,166,4.7,completed,0.31
+UC00704,Mumbai,Deep Cleaning,2026-04-08,13,Wednesday,partly_cloudy,1297,101,4.8,no_show,0.96
+UC00705,Hyderabad,AC Repair,2026-06-21,8,Sunday,sunny,869,174,3.1,no_show,0.58
+UC00706,Hyderabad,Plumbing,2026-08-23,15,Sunday,cloudy,370,48,4.4,cancelled,0.96
+UC00707,Delhi,Painting,2025-11-07,11,Friday,sunny,2953,167,4.3,completed,0.79
+UC00708,Hyderabad,AC Repair,2026-06-20,15,Saturday,cloudy,929,148,3.4,completed,0.74
+UC00709,Kolkata,AC Repair,2026-08-27,18,Thursday,sunny,847,130,4.1,completed,0.6
+UC00710,Kolkata,Deep Cleaning,2026-01-17,18,Saturday,sunny,1307,130,4.5,completed,0.66
+UC00711,Bangalore,Painting,2026-08-12,9,Wednesday,partly_cloudy,3042,164,4.2,completed,0.56
+UC00712,Chennai,Plumbing,2026-07-29,19,Wednesday,cloudy,384,130,3.5,completed,0.75
+UC00713,Kolkata,Deep Cleaning,2026-06-25,19,Thursday,cloudy,1231,135,4.8,no_show,0.78
+UC00714,Bangalore,AC Repair,2026-01-20,13,Tuesday,rainy,864,169,4.0,completed,0.63
+UC00715,Hyderabad,Pest Control,2026-05-31,17,Sunday,rainy,821,61,3.4,cancelled,0.36
+UC00716,Delhi,Electrician,2026-03-20,9,Friday,sunny,441,115,3.2,completed,0.65
+UC00717,Delhi,AC Repair,2025-12-14,14,Sunday,humid,782,166,3.7,cancelled,0.82
+UC00718,Mumbai,Pest Control,2025-09-11,9,Thursday,sunny,708,178,4.3,cancelled,0.71
+UC00719,Hyderabad,Painting,2026-08-02,17,Sunday,humid,3089,158,3.9,no_show,0.39
+UC00720,Kolkata,Electrician,2026-02-04,12,Wednesday,cloudy,522,140,4.9,completed,0.4
+UC00721,Mumbai,Salon at Home,2026-01-24,17,Saturday,cloudy,481,118,3.4,completed,0.89
+UC00722,Mumbai,Electrician,2026-08-21,11,Friday,sunny,409,126,4.1,cancelled,0.48
+UC00723,Chennai,Deep Cleaning,2025-12-04,19,Thursday,sunny,1319,126,5.0,completed,0.56
+UC00724,Chennai,Electrician,2026-06-04,12,Thursday,sunny,405,148,4.9,completed,0.96
+UC00725,Bangalore,Electrician,2026-02-11,19,Wednesday,humid,528,129,4.3,completed,0.63
+UC00726,Kolkata,Electrician,2026-01-27,17,Tuesday,partly_cloudy,485,73,4.5,completed,0.4
+UC00727,Delhi,Plumbing,2026-06-10,8,Wednesday,partly_cloudy,507,101,3.9,completed,0.53
+UC00728,Chennai,Deep Cleaning,2026-07-09,16,Thursday,cloudy,1349,116,3.4,completed,0.68
+UC00729,Chennai,Plumbing,2026-04-17,14,Friday,cloudy,474,126,4.2,no_show,0.96
+UC00730,Hyderabad,Painting,2026-08-08,10,Saturday,partly_cloudy,3043,143,3.7,completed,0.54
+UC00731,Kolkata,Salon at Home,2026-02-05,16,Thursday,sunny,354,158,4.5,cancelled,0.86
+UC00732,Kolkata,Electrician,2026-01-26,19,Monday,partly_cloudy,585,151,3.3,no_show,0.72
+UC00733,Delhi,Deep Cleaning,2025-11-13,15,Thursday,humid,1234,61,4.9,no_show,0.83
+UC00734,Hyderabad,AC Repair,2025-10-16,18,Thursday,rainy,855,89,4.1,no_show,0.83
+UC00735,Mumbai,Deep Cleaning,2025-11-10,21,Monday,partly_cloudy,1223,170,3.1,completed,0.88
+UC00736,Chennai,Salon at Home,2026-02-03,19,Tuesday,partly_cloudy,356,51,4.6,completed,0.48
+UC00737,Bangalore,Salon at Home,2026-07-25,18,Saturday,rainy,405,90,4.0,completed,0.32
+UC00738,Bangalore,Salon at Home,2026-01-20,17,Tuesday,rainy,447,168,4.1,completed,0.74
+UC00739,Delhi,Plumbing,2026-05-02,16,Saturday,humid,353,111,3.3,completed,0.4
+UC00740,Delhi,Electrician,2026-04-25,10,Saturday,sunny,468,137,3.8,completed,0.33
+UC00741,Chennai,Plumbing,2026-01-28,11,Wednesday,cloudy,544,69,4.2,completed,0.68
+UC00742,Delhi,Pest Control,2026-02-09,18,Monday,rainy,673,135,4.6,completed,0.4
+UC00743,Kolkata,Painting,2026-01-23,15,Friday,partly_cloudy,3036,86,3.2,completed,0.65
+UC00744,Hyderabad,Plumbing,2025-12-06,15,Saturday,sunny,378,78,4.8,cancelled,0.54
+UC00745,Mumbai,Painting,2026-08-20,21,Thursday,partly_cloudy,3101,178,4.5,completed,0.42
+UC00746,Pune,AC Repair,2026-02-03,21,Tuesday,sunny,805,77,4.7,completed,0.78
+UC00747,Mumbai,Electrician,2026-02-05,10,Thursday,sunny,507,73,3.2,cancelled,0.83
+UC00748,Bangalore,Deep Cleaning,2025-09-22,8,Monday,humid,1300,60,3.9,completed,0.33
+UC00749,Kolkata,AC Repair,2026-02-02,9,Monday,sunny,903,97,4.2,completed,0.43
+UC00750,Bangalore,AC Repair,2026-02-27,10,Friday,rainy,897,134,3.7,no_show,0.85
+UC00751,Chennai,Deep Cleaning,2026-07-11,17,Saturday,sunny,1174,48,4.1,completed,0.97
+UC00752,Pune,AC Repair,2025-11-27,9,Thursday,cloudy,878,166,3.7,no_show,0.43
+UC00753,Mumbai,Plumbing,2026-08-11,21,Tuesday,rainy,446,153,3.4,completed,0.59
+UC00754,Hyderabad,Plumbing,2026-02-08,9,Sunday,humid,383,171,4.5,completed,0.69
+UC00755,Delhi,Plumbing,2025-09-21,15,Sunday,sunny,447,117,3.9,completed,0.78
+UC00756,Chennai,Deep Cleaning,2026-04-16,14,Thursday,rainy,1258,93,4.7,cancelled,0.96
+UC00757,Bangalore,Electrician,2026-03-08,18,Sunday,partly_cloudy,571,71,3.8,no_show,0.76
+UC00758,Mumbai,Plumbing,2025-10-14,14,Tuesday,partly_cloudy,526,71,4.5,completed,0.35
+UC00759,Mumbai,Painting,2025-12-11,17,Thursday,partly_cloudy,2980,104,4.7,cancelled,0.49
+UC00760,Kolkata,Pest Control,2026-06-25,20,Thursday,partly_cloudy,740,166,4.3,cancelled,0.99
+UC00761,Mumbai,Pest Control,2026-05-20,20,Wednesday,partly_cloudy,676,76,3.5,cancelled,0.46
+UC00762,Bangalore,AC Repair,2025-11-08,19,Saturday,sunny,766,172,4.4,completed,0.57
+UC00763,Mumbai,Painting,2026-08-14,12,Friday,humid,3108,69,4.5,no_show,0.84
+UC00764,Delhi,Deep Cleaning,2026-04-27,18,Monday,partly_cloudy,1274,174,3.5,completed,0.87
+UC00765,Kolkata,AC Repair,2026-06-04,8,Thursday,partly_cloudy,779,143,3.9,cancelled,0.61
+UC00766,Mumbai,AC Repair,2025-09-19,16,Friday,rainy,929,87,4.0,completed,0.52
+UC00767,Kolkata,Salon at Home,2026-03-19,9,Thursday,humid,471,170,4.3,no_show,0.7
+UC00768,Chennai,Electrician,2026-05-02,8,Saturday,partly_cloudy,466,171,4.2,cancelled,0.73
+UC00769,Delhi,Pest Control,2026-02-28,8,Saturday,sunny,800,56,3.3,completed,0.54
+UC00770,Kolkata,AC Repair,2026-06-26,18,Friday,rainy,846,69,3.9,completed,0.59
+UC00771,Mumbai,Deep Cleaning,2025-09-29,11,Monday,rainy,1300,66,4.8,completed,0.91
+UC00772,Mumbai,Painting,2025-10-29,8,Wednesday,humid,3032,54,3.9,cancelled,0.7
+UC00773,Bangalore,Pest Control,2026-04-04,19,Saturday,partly_cloudy,799,50,5.0,cancelled,0.7
+UC00774,Kolkata,Plumbing,2026-02-13,15,Friday,sunny,525,97,3.7,no_show,0.87
+UC00775,Mumbai,Painting,2026-08-08,17,Saturday,rainy,3042,156,3.4,completed,0.89
+UC00776,Delhi,Deep Cleaning,2026-06-02,12,Tuesday,sunny,1225,147,4.6,no_show,0.82
+UC00777,Chennai,Plumbing,2025-10-18,13,Saturday,rainy,366,180,4.0,completed,0.54
+UC00778,Chennai,Pest Control,2025-10-10,20,Friday,rainy,759,125,3.4,cancelled,0.48
+UC00779,Pune,Salon at Home,2026-05-22,20,Friday,humid,345,49,4.3,no_show,0.9
+UC00780,Mumbai,Salon at Home,2026-06-23,18,Tuesday,partly_cloudy,367,156,4.9,completed,0.67
+UC00781,Mumbai,Salon at Home,2026-03-06,11,Friday,cloudy,490,121,4.7,cancelled,0.52
+UC00782,Kolkata,Deep Cleaning,2025-10-03,14,Friday,rainy,1222,86,3.5,no_show,0.47
+UC00783,Mumbai,Plumbing,2026-01-01,11,Thursday,sunny,411,124,3.9,no_show,0.99
+UC00784,Mumbai,AC Repair,2026-04-05,10,Sunday,rainy,783,52,3.5,completed,0.76
+UC00785,Pune,AC Repair,2025-11-30,15,Sunday,sunny,763,66,3.6,completed,0.91
+UC00786,Pune,Painting,2026-03-28,18,Saturday,sunny,3050,80,3.5,no_show,0.81
+UC00787,Hyderabad,Pest Control,2025-11-01,9,Saturday,cloudy,802,76,4.5,completed,0.53
+UC00788,Kolkata,Carpentry,2026-06-27,19,Saturday,cloudy,657,100,3.3,completed,0.45
+UC00789,Hyderabad,Salon at Home,2026-01-19,12,Monday,humid,313,170,4.1,completed,0.52
+UC00790,Pune,Salon at Home,2026-04-05,11,Sunday,rainy,499,82,3.7,completed,0.87
+UC00791,Kolkata,AC Repair,2025-09-11,19,Thursday,sunny,925,106,3.5,cancelled,0.52
+UC00792,Kolkata,Painting,2026-08-25,18,Tuesday,sunny,3085,105,4.7,cancelled,0.31
+UC00793,Delhi,Pest Control,2026-03-21,9,Saturday,cloudy,725,98,4.7,completed,0.94
+UC00794,Kolkata,Painting,2026-07-21,20,Tuesday,partly_cloudy,2957,115,4.7,cancelled,0.63
+UC00795,Pune,Painting,2026-03-31,14,Tuesday,sunny,2990,111,4.0,completed,0.59
+UC00796,Hyderabad,Painting,2026-06-08,19,Monday,sunny,3144,58,4.3,completed,0.74
+UC00797,Bangalore,Electrician,2026-07-26,14,Sunday,cloudy,559,123,3.6,completed,0.38
+UC00798,Kolkata,Electrician,2026-01-06,17,Tuesday,partly_cloudy,480,160,4.0,completed,0.48
+UC00799,Kolkata,Painting,2026-08-18,12,Tuesday,cloudy,2970,151,3.7,cancelled,0.91
+UC00800,Bangalore,Deep Cleaning,2026-06-20,8,Saturday,humid,1314,103,4.8,cancelled,0.44
+UC00801,Bangalore,Electrician,2026-08-26,14,Wednesday,humid,508,111,3.3,completed,0.42
+UC00802,Bangalore,Plumbing,2026-06-18,19,Thursday,humid,460,161,4.7,cancelled,0.38
+UC00803,Kolkata,Deep Cleaning,2025-12-14,21,Sunday,rainy,1222,171,3.8,cancelled,0.9
+UC00804,Kolkata,Deep Cleaning,2026-07-05,12,Sunday,cloudy,1256,91,3.8,completed,0.32
+UC00805,Chennai,Deep Cleaning,2026-01-13,15,Tuesday,cloudy,1243,162,3.2,cancelled,0.39
+UC00806,Pune,Carpentry,2026-02-13,11,Friday,partly_cloudy,730,153,4.5,completed,0.35
+UC00807,Bangalore,AC Repair,2026-06-13,13,Saturday,cloudy,869,135,5.0,no_show,0.8
+UC00808,Delhi,AC Repair,2025-09-24,16,Wednesday,humid,846,122,5.0,completed,0.39
+UC00809,Chennai,AC Repair,2026-06-14,10,Sunday,rainy,792,173,4.0,completed,0.91
+UC00810,Delhi,Plumbing,2025-11-07,19,Friday,humid,459,81,3.5,completed,0.33
+UC00811,Kolkata,Salon at Home,2025-11-05,21,Wednesday,rainy,490,137,4.9,completed,0.93
+UC00812,Chennai,Pest Control,2026-01-13,13,Tuesday,partly_cloudy,691,125,4.5,cancelled,0.83
+UC00813,Bangalore,Salon at Home,2025-11-17,11,Monday,cloudy,312,103,3.4,cancelled,0.48
+UC00814,Hyderabad,Salon at Home,2026-08-28,9,Friday,partly_cloudy,309,158,3.7,no_show,0.64
+UC00815,Kolkata,Plumbing,2026-05-11,19,Monday,cloudy,380,134,3.2,completed,0.43
+UC00816,Chennai,Pest Control,2025-11-26,18,Wednesday,humid,703,46,4.1,no_show,0.43
+UC00817,Kolkata,Deep Cleaning,2025-10-10,15,Friday,sunny,1233,51,3.6,completed,0.58
+UC00818,Kolkata,Plumbing,2026-06-30,13,Tuesday,cloudy,356,65,3.9,cancelled,0.62
+UC00819,Delhi,AC Repair,2026-01-16,8,Friday,humid,864,128,4.9,no_show,0.39
+UC00820,Delhi,Pest Control,2025-09-25,20,Thursday,sunny,839,63,4.1,no_show,0.57
+UC00821,Mumbai,Pest Control,2026-03-24,11,Tuesday,partly_cloudy,671,50,4.7,completed,0.57
+UC00822,Pune,Pest Control,2026-03-26,20,Thursday,cloudy,679,121,4.0,cancelled,0.82
+UC00823,Delhi,Electrician,2026-02-06,18,Friday,sunny,493,176,3.4,cancelled,0.92
+UC00824,Chennai,Pest Control,2026-05-02,17,Saturday,partly_cloudy,672,153,4.6,no_show,0.43
+UC00825,Bangalore,Carpentry,2026-07-20,8,Monday,humid,636,163,4.4,completed,0.95
+UC00826,Delhi,Plumbing,2026-05-28,15,Thursday,partly_cloudy,369,167,3.6,completed,0.78
+UC00827,Chennai,Deep Cleaning,2026-02-01,14,Sunday,rainy,1294,57,4.1,completed,0.66
+UC00828,Hyderabad,Carpentry,2026-05-20,9,Wednesday,partly_cloudy,718,109,3.7,no_show,0.36
+UC00829,Bangalore,AC Repair,2026-05-16,19,Saturday,partly_cloudy,794,91,4.7,completed,0.36
+UC00830,Delhi,Pest Control,2026-08-27,17,Thursday,partly_cloudy,842,160,4.2,completed,0.54
+UC00831,Mumbai,Deep Cleaning,2025-12-05,9,Friday,humid,1215,72,3.9,completed,0.3
+UC00832,Mumbai,AC Repair,2025-10-30,18,Thursday,partly_cloudy,866,148,4.7,no_show,0.81
+UC00833,Pune,Painting,2026-02-03,18,Tuesday,partly_cloudy,3026,67,3.3,completed,0.43
+UC00834,Kolkata,Deep Cleaning,2025-09-09,8,Tuesday,cloudy,1272,82,4.3,cancelled,0.89
+UC00835,Bangalore,Deep Cleaning,2026-06-03,12,Wednesday,partly_cloudy,1186,166,3.8,completed,0.42
+UC00836,Hyderabad,Salon at Home,2025-11-18,15,Tuesday,sunny,414,107,3.4,no_show,0.88
+UC00837,Delhi,AC Repair,2026-03-20,8,Friday,sunny,910,155,5.0,cancelled,0.82
+UC00838,Bangalore,Pest Control,2026-07-03,15,Friday,partly_cloudy,773,176,4.2,no_show,0.95
+UC00839,Pune,Deep Cleaning,2026-05-08,8,Friday,humid,1153,153,4.2,no_show,0.34
+UC00840,Hyderabad,Carpentry,2026-07-29,9,Wednesday,partly_cloudy,708,133,3.9,cancelled,0.31
+UC00841,Hyderabad,Deep Cleaning,2026-01-26,13,Monday,partly_cloudy,1208,174,3.4,completed,0.95
+UC00842,Mumbai,Salon at Home,2026-08-03,12,Monday,partly_cloudy,405,137,4.6,completed,0.74
+UC00843,Pune,Plumbing,2026-01-23,15,Friday,cloudy,393,96,3.3,cancelled,0.37
+UC00844,Delhi,Salon at Home,2026-04-01,11,Wednesday,cloudy,441,57,5.0,completed,0.92
+UC00845,Mumbai,Electrician,2026-03-02,21,Monday,humid,407,61,3.7,completed,0.73
+UC00846,Hyderabad,Deep Cleaning,2025-11-01,12,Saturday,rainy,1349,135,4.5,no_show,0.49
+UC00847,Pune,Plumbing,2025-11-17,8,Monday,partly_cloudy,466,73,4.9,no_show,0.73
+UC00848,Chennai,AC Repair,2025-10-23,9,Thursday,cloudy,910,75,4.7,completed,0.41
+UC00849,Kolkata,Salon at Home,2026-01-28,16,Wednesday,partly_cloudy,486,70,3.3,completed,0.53
+UC00850,Kolkata,Plumbing,2025-11-10,11,Monday,partly_cloudy,455,46,3.5,cancelled,0.54
+UC00851,Bangalore,Electrician,2026-05-17,12,Sunday,rainy,582,151,3.7,completed,0.41
+UC00852,Kolkata,Carpentry,2026-05-30,11,Saturday,cloudy,658,150,4.8,cancelled,0.97
+UC00853,Bangalore,Painting,2026-05-23,15,Saturday,cloudy,3146,47,4.4,no_show,0.96
+UC00854,Delhi,Painting,2025-10-14,14,Tuesday,cloudy,3060,60,3.8,completed,0.76
+UC00855,Chennai,Electrician,2026-07-26,8,Sunday,humid,474,152,3.8,no_show,0.91
+UC00856,Bangalore,Painting,2026-02-08,21,Sunday,rainy,3084,82,4.4,cancelled,0.75
+UC00857,Pune,Salon at Home,2026-06-06,13,Saturday,partly_cloudy,497,95,4.8,completed,0.33
+UC00858,Pune,Carpentry,2026-02-19,19,Thursday,cloudy,682,117,3.4,no_show,0.69
+UC00859,Kolkata,Painting,2026-05-25,18,Monday,cloudy,2954,52,4.8,no_show,0.71
+UC00860,Pune,Pest Control,2026-01-02,14,Friday,humid,677,60,4.7,completed,0.74
+UC00861,Bangalore,Plumbing,2026-03-01,20,Sunday,sunny,463,121,4.1,completed,0.62
+UC00862,Delhi,Deep Cleaning,2025-12-30,12,Tuesday,rainy,1319,80,4.4,no_show,0.82
+UC00863,Chennai,Painting,2025-10-24,17,Friday,cloudy,3148,137,3.9,completed,0.8
+UC00864,Bangalore,Plumbing,2026-03-30,8,Monday,partly_cloudy,382,166,3.4,completed,0.56
+UC00865,Chennai,Carpentry,2026-05-28,16,Thursday,humid,748,146,4.7,no_show,0.65
+UC00866,Pune,Salon at Home,2026-04-05,15,Sunday,partly_cloudy,340,81,4.0,cancelled,0.8
+UC00867,Pune,Plumbing,2025-11-06,11,Thursday,partly_cloudy,470,53,4.5,no_show,0.56
+UC00868,Bangalore,Carpentry,2025-10-31,9,Friday,rainy,695,119,3.1,completed,0.38
+UC00869,Delhi,Painting,2026-02-04,12,Wednesday,partly_cloudy,2956,81,3.3,no_show,0.6
+UC00870,Mumbai,Pest Control,2026-02-04,10,Wednesday,partly_cloudy,649,76,4.1,completed,0.91
+UC00871,Chennai,Salon at Home,2026-04-02,12,Thursday,humid,414,131,4.6,cancelled,0.88
+UC00872,Kolkata,Electrician,2026-07-08,10,Wednesday,humid,561,162,4.5,cancelled,0.4
+UC00873,Kolkata,Plumbing,2026-02-14,17,Saturday,humid,453,144,3.5,cancelled,0.54
+UC00874,Pune,Salon at Home,2025-09-24,12,Wednesday,sunny,341,51,4.1,completed,0.69
+UC00875,Mumbai,Plumbing,2025-11-03,17,Monday,humid,496,58,4.9,no_show,0.43
+UC00876,Bangalore,AC Repair,2026-05-02,18,Saturday,humid,795,49,3.5,completed,0.47
+UC00877,Bangalore,Salon at Home,2026-08-28,20,Friday,humid,454,127,3.8,completed,0.64
+UC00878,Hyderabad,Painting,2025-09-12,10,Friday,partly_cloudy,2955,180,3.6,completed,0.36
+UC00879,Delhi,Electrician,2025-10-21,10,Tuesday,cloudy,464,67,3.3,cancelled,0.78
+UC00880,Mumbai,Painting,2025-10-01,8,Wednesday,sunny,3025,144,3.2,completed,0.59
+UC00881,Hyderabad,Pest Control,2026-02-13,21,Friday,sunny,662,96,3.5,no_show,0.71
+UC00882,Bangalore,Carpentry,2026-05-11,12,Monday,sunny,630,163,4.1,completed,0.64
+UC00883,Bangalore,Deep Cleaning,2026-03-28,12,Saturday,humid,1299,70,3.5,no_show,0.76
+UC00884,Chennai,Pest Control,2025-11-04,14,Tuesday,partly_cloudy,670,173,3.4,completed,0.56
+UC00885,Chennai,Deep Cleaning,2025-11-26,14,Wednesday,humid,1264,55,3.0,cancelled,0.97
+UC00886,Pune,Pest Control,2026-07-15,10,Wednesday,sunny,664,168,3.5,completed,0.89
+UC00887,Kolkata,Painting,2026-03-14,18,Saturday,cloudy,3098,175,3.6,completed,0.82
+UC00888,Delhi,Plumbing,2026-06-16,9,Tuesday,partly_cloudy,527,76,4.7,no_show,1.0
+UC00889,Chennai,Deep Cleaning,2026-04-10,16,Friday,rainy,1323,132,4.3,cancelled,0.49
+UC00890,Delhi,Painting,2026-08-06,11,Thursday,partly_cloudy,3102,129,3.0,completed,0.75
+UC00891,Bangalore,Salon at Home,2025-09-02,8,Tuesday,cloudy,404,170,4.5,no_show,0.36
+UC00892,Chennai,Plumbing,2026-07-30,8,Thursday,partly_cloudy,521,76,3.7,cancelled,0.88
+UC00893,Mumbai,Carpentry,2026-03-03,21,Tuesday,sunny,580,163,3.7,completed,0.61
+UC00894,Kolkata,AC Repair,2025-12-23,12,Tuesday,rainy,798,68,4.6,completed,0.87
+UC00895,Hyderabad,Deep Cleaning,2025-12-23,13,Tuesday,sunny,1220,171,4.8,no_show,0.45
+UC00896,Bangalore,Carpentry,2025-12-10,21,Wednesday,rainy,694,173,4.0,no_show,0.44
+UC00897,Bangalore,Electrician,2026-06-17,17,Wednesday,cloudy,589,61,3.3,no_show,0.9
+UC00898,Mumbai,Pest Control,2026-05-26,21,Tuesday,sunny,826,109,4.4,cancelled,0.3
+UC00899,Kolkata,AC Repair,2026-04-07,13,Tuesday,partly_cloudy,853,115,3.2,no_show,0.63
+UC00900,Pune,AC Repair,2026-03-05,11,Thursday,sunny,820,152,4.1,completed,0.3
+UC00901,Bangalore,Painting,2025-12-09,17,Tuesday,sunny,3137,102,5.0,cancelled,0.97
+UC00902,Mumbai,Deep Cleaning,2026-01-06,13,Tuesday,rainy,1165,69,3.1,cancelled,0.87
+UC00903,Kolkata,Painting,2026-07-01,12,Wednesday,cloudy,2976,166,3.5,completed,0.88
+UC00904,Bangalore,Deep Cleaning,2026-02-18,20,Wednesday,humid,1307,157,4.5,cancelled,0.71
+UC00905,Bangalore,AC Repair,2025-10-14,14,Tuesday,rainy,926,61,4.6,completed,0.94
+UC00906,Delhi,AC Repair,2026-04-15,17,Wednesday,partly_cloudy,765,71,4.4,no_show,0.34
+UC00907,Bangalore,Carpentry,2026-03-15,17,Sunday,partly_cloudy,608,47,3.9,cancelled,0.86
+UC00908,Delhi,Plumbing,2026-07-15,18,Wednesday,sunny,465,177,3.7,completed,0.38
+UC00909,Chennai,Plumbing,2025-09-07,20,Sunday,cloudy,495,77,4.3,completed,0.55
+UC00910,Mumbai,Salon at Home,2026-05-05,11,Tuesday,cloudy,310,60,3.3,no_show,0.61
+UC00911,Delhi,Painting,2026-07-31,17,Friday,humid,3147,82,3.3,completed,0.72
+UC00912,Bangalore,Painting,2026-01-28,16,Wednesday,humid,3117,82,3.1,no_show,0.87
+UC00913,Hyderabad,AC Repair,2026-06-14,13,Sunday,cloudy,800,96,4.6,completed,0.43
+UC00914,Chennai,Salon at Home,2026-05-02,19,Saturday,rainy,447,130,4.2,cancelled,0.53
+UC00915,Kolkata,Salon at Home,2025-10-24,8,Friday,partly_cloudy,355,45,4.3,completed,0.63
+UC00916,Hyderabad,Deep Cleaning,2025-12-19,19,Friday,rainy,1338,141,3.4,completed,0.88
+UC00917,Bangalore,Painting,2025-09-04,9,Thursday,rainy,2956,74,3.3,cancelled,0.44
+UC00918,Bangalore,Painting,2026-06-27,8,Saturday,cloudy,2999,117,3.3,completed,0.8
+UC00919,Mumbai,Deep Cleaning,2026-02-21,11,Saturday,sunny,1194,112,4.8,completed,0.88
+UC00920,Pune,Carpentry,2025-11-10,20,Monday,sunny,635,98,3.6,completed,0.56
+UC00921,Chennai,Electrician,2026-03-10,20,Tuesday,humid,510,61,3.2,completed,0.86
+UC00922,Pune,Carpentry,2025-12-08,13,Monday,rainy,702,154,5.0,completed,0.94
+UC00923,Kolkata,Deep Cleaning,2026-07-13,16,Monday,rainy,1187,128,3.5,completed,0.91
+UC00924,Mumbai,Salon at Home,2026-05-19,19,Tuesday,sunny,499,165,4.6,no_show,0.35
+UC00925,Kolkata,Carpentry,2026-05-19,18,Tuesday,humid,644,172,4.0,completed,0.53
+UC00926,Pune,Salon at Home,2026-03-11,15,Wednesday,partly_cloudy,367,147,4.3,no_show,0.75
+UC00927,Mumbai,Deep Cleaning,2025-12-16,15,Tuesday,cloudy,1250,100,3.6,cancelled,0.7
+UC00928,Chennai,Pest Control,2026-03-11,9,Wednesday,cloudy,841,66,3.6,no_show,0.55
+UC00929,Hyderabad,AC Repair,2026-06-26,16,Friday,humid,835,154,3.9,cancelled,0.59
+UC00930,Delhi,Painting,2026-05-13,14,Wednesday,sunny,2994,158,3.5,completed,0.55
+UC00931,Kolkata,Pest Control,2025-10-13,16,Monday,humid,788,65,4.6,completed,0.37
+UC00932,Bangalore,Painting,2025-10-07,16,Tuesday,cloudy,3034,95,4.4,completed,0.51
+UC00933,Mumbai,Pest Control,2026-08-16,19,Sunday,humid,684,111,3.0,completed,0.5
+UC00934,Hyderabad,Carpentry,2026-02-25,21,Wednesday,humid,742,48,3.9,no_show,0.99
+UC00935,Mumbai,Carpentry,2025-11-16,11,Sunday,cloudy,670,104,4.0,no_show,0.83
+UC00936,Kolkata,Painting,2026-04-25,9,Saturday,rainy,2997,154,4.5,cancelled,0.45
+UC00937,Delhi,AC Repair,2026-04-19,10,Sunday,humid,781,123,4.9,completed,0.65
+UC00938,Delhi,Painting,2026-08-04,11,Tuesday,partly_cloudy,3057,148,4.5,no_show,0.51
+UC00939,Chennai,AC Repair,2026-06-28,20,Sunday,sunny,784,84,5.0,completed,0.7
+UC00940,Hyderabad,Carpentry,2026-07-06,11,Monday,partly_cloudy,565,143,3.4,completed,0.53
+UC00941,Bangalore,Pest Control,2026-04-20,10,Monday,sunny,821,90,3.1,no_show,0.64
+UC00942,Bangalore,Deep Cleaning,2025-12-05,14,Friday,rainy,1201,104,3.6,no_show,0.35
+UC00943,Chennai,Painting,2025-09-30,8,Tuesday,cloudy,3032,150,3.8,completed,0.39
+UC00944,Pune,Salon at Home,2026-04-03,9,Friday,partly_cloudy,351,78,4.7,completed,0.6
+UC00945,Mumbai,Salon at Home,2026-08-30,17,Sunday,humid,378,96,4.0,cancelled,0.49
+UC00946,Hyderabad,Electrician,2025-09-04,9,Thursday,partly_cloudy,553,108,4.1,no_show,0.92
+UC00947,Chennai,Salon at Home,2026-04-24,8,Friday,sunny,372,161,3.7,completed,0.57
+UC00948,Mumbai,Carpentry,2025-11-29,10,Saturday,humid,736,155,3.9,completed,0.79
+UC00949,Pune,Carpentry,2025-10-19,8,Sunday,cloudy,589,115,4.8,no_show,0.5
+UC00950,Hyderabad,Deep Cleaning,2025-10-05,14,Sunday,humid,1180,139,3.2,completed,0.65
+UC00951,Hyderabad,Carpentry,2026-02-14,10,Saturday,rainy,602,174,3.1,completed,0.35
+UC00952,Hyderabad,Salon at Home,2026-08-22,13,Saturday,partly_cloudy,348,146,3.1,completed,0.38
+UC00953,Pune,Painting,2025-11-09,19,Sunday,partly_cloudy,3073,163,3.1,no_show,0.76
+UC00954,Hyderabad,Electrician,2026-04-13,21,Monday,rainy,440,88,4.7,no_show,0.37
+UC00955,Chennai,Plumbing,2026-01-29,19,Thursday,partly_cloudy,392,64,4.3,completed,0.77
+UC00956,Delhi,Salon at Home,2025-11-18,10,Tuesday,cloudy,481,53,4.8,no_show,0.45
+UC00957,Kolkata,AC Repair,2026-08-23,18,Sunday,humid,913,71,3.8,completed,0.61
+UC00958,Bangalore,AC Repair,2026-07-04,20,Saturday,partly_cloudy,945,96,4.9,completed,0.94
+UC00959,Bangalore,Plumbing,2025-12-12,14,Friday,sunny,352,131,4.6,completed,0.45
+UC00960,Pune,Electrician,2025-10-20,10,Monday,sunny,505,176,3.2,completed,0.53
+UC00961,Chennai,Deep Cleaning,2026-07-18,11,Saturday,humid,1250,154,3.2,completed,0.37
+UC00962,Bangalore,Electrician,2026-02-13,14,Friday,rainy,402,144,3.4,completed,0.35
+UC00963,Bangalore,Painting,2026-01-21,9,Wednesday,cloudy,3054,122,4.5,cancelled,0.99
+UC00964,Delhi,Electrician,2025-10-23,9,Thursday,humid,482,144,4.4,completed,0.53
+UC00965,Kolkata,Painting,2026-07-23,18,Thursday,partly_cloudy,2966,130,3.0,no_show,0.61
+UC00966,Chennai,Deep Cleaning,2026-05-20,17,Wednesday,sunny,1208,50,4.2,completed,0.52
+UC00967,Chennai,Deep Cleaning,2026-04-08,9,Wednesday,sunny,1184,140,4.0,completed,0.41
+UC00968,Mumbai,AC Repair,2025-12-14,19,Sunday,humid,862,129,3.3,completed,0.75
+UC00969,Pune,Carpentry,2025-09-21,21,Sunday,rainy,741,51,3.5,completed,0.54
+UC00970,Pune,AC Repair,2025-12-15,11,Monday,cloudy,904,142,4.0,completed,0.61
+UC00971,Kolkata,Plumbing,2025-09-04,15,Thursday,sunny,398,58,4.3,completed,0.96
+UC00972,Mumbai,Plumbing,2025-11-04,17,Tuesday,humid,401,105,4.0,cancelled,0.81
+UC00973,Pune,Electrician,2026-02-07,11,Saturday,cloudy,507,90,4.2,completed,0.5
+UC00974,Delhi,Deep Cleaning,2026-04-18,21,Saturday,partly_cloudy,1169,137,3.8,completed,0.63
+UC00975,Kolkata,Carpentry,2026-04-05,10,Sunday,partly_cloudy,554,142,3.9,completed,0.83
+UC00976,Chennai,Electrician,2026-02-01,19,Sunday,cloudy,464,142,3.9,cancelled,0.5
+UC00977,Bangalore,Salon at Home,2026-06-15,13,Monday,cloudy,482,165,3.4,completed,0.3
+UC00978,Hyderabad,Painting,2026-05-15,14,Friday,partly_cloudy,3050,140,3.8,completed,0.75
+UC00979,Hyderabad,Plumbing,2026-06-29,8,Monday,sunny,447,86,3.4,cancelled,0.97
+UC00980,Pune,Salon at Home,2026-02-26,19,Thursday,rainy,477,59,4.3,cancelled,0.81
+UC00981,Bangalore,Salon at Home,2026-01-03,21,Saturday,rainy,460,52,4.4,completed,0.48
+UC00982,Delhi,Electrician,2026-04-22,11,Wednesday,humid,547,86,3.0,completed,0.75
+UC00983,Pune,Carpentry,2026-03-16,17,Monday,sunny,681,93,4.8,completed,0.88
+UC00984,Chennai,Pest Control,2026-01-08,16,Thursday,partly_cloudy,799,123,4.5,completed,0.38
+UC00985,Kolkata,Painting,2026-06-21,10,Sunday,rainy,3140,98,4.9,cancelled,0.79
+UC00986,Kolkata,Electrician,2025-09-04,15,Thursday,sunny,423,62,4.5,cancelled,0.67
+UC00987,Pune,Pest Control,2026-08-02,14,Sunday,cloudy,694,140,3.4,completed,0.44
+UC00988,Hyderabad,Plumbing,2025-12-03,17,Wednesday,cloudy,396,96,3.1,completed,0.87
+UC00989,Kolkata,Pest Control,2025-12-08,14,Monday,partly_cloudy,809,72,4.7,completed,0.36
+UC00990,Bangalore,Carpentry,2025-10-14,12,Tuesday,sunny,636,52,4.2,cancelled,0.64
+UC00991,Bangalore,AC Repair,2025-10-22,12,Wednesday,sunny,919,55,3.2,no_show,0.85
+UC00992,Hyderabad,Pest Control,2026-03-12,15,Thursday,rainy,803,154,3.7,completed,1.0
+UC00993,Pune,Painting,2026-01-01,14,Thursday,partly_cloudy,3105,59,5.0,completed,0.86
+UC00994,Kolkata,Salon at Home,2025-09-02,19,Tuesday,partly_cloudy,484,80,3.1,completed,0.91
+UC00995,Delhi,Deep Cleaning,2026-01-22,15,Thursday,humid,1324,166,4.0,completed,0.3
+UC00996,Bangalore,Painting,2026-07-24,18,Friday,rainy,2960,128,4.4,completed,0.72
+UC00997,Delhi,Plumbing,2026-03-24,14,Tuesday,partly_cloudy,517,70,4.5,completed,0.73
+UC00998,Kolkata,Electrician,2026-08-31,16,Monday,humid,599,174,3.1,cancelled,0.86
+UC00999,Mumbai,Salon at Home,2026-02-02,15,Monday,sunny,422,106,3.5,completed,0.83
+UC01000,Bangalore,Plumbing,2026-08-04,14,Tuesday,sunny,390,128,4.8,completed,0.45
+UC01001,Pune,Salon at Home,2026-01-10,9,Saturday,cloudy,435,170,3.2,completed,0.91
+UC01002,Pune,Plumbing,2026-06-22,13,Monday,partly_cloudy,532,142,4.3,no_show,0.98
+UC01003,Mumbai,Deep Cleaning,2026-04-12,12,Sunday,sunny,1223,67,3.2,completed,0.82
+UC01004,Chennai,Plumbing,2025-12-06,13,Saturday,cloudy,429,142,4.2,completed,0.52
+UC01005,Kolkata,Deep Cleaning,2026-06-30,14,Tuesday,partly_cloudy,1230,138,4.6,completed,0.66
+UC01006,Bangalore,Deep Cleaning,2026-07-06,14,Monday,sunny,1286,162,3.6,completed,0.89
+UC01007,Mumbai,Salon at Home,2026-05-14,17,Thursday,rainy,336,53,4.2,completed,0.65
+UC01008,Delhi,Plumbing,2026-08-19,21,Wednesday,humid,471,100,4.0,cancelled,0.34
+UC01009,Kolkata,Electrician,2026-02-18,19,Wednesday,cloudy,586,102,4.4,completed,0.95
+UC01010,Pune,Salon at Home,2025-12-01,14,Monday,rainy,467,85,5.0,no_show,0.57
+UC01011,Delhi,Salon at Home,2026-04-05,20,Sunday,partly_cloudy,399,63,4.1,completed,0.5
+UC01012,Bangalore,Carpentry,2025-12-09,10,Tuesday,rainy,741,58,4.7,completed,0.62
+UC01013,Hyderabad,Electrician,2025-11-23,19,Sunday,partly_cloudy,473,82,3.4,completed,0.81
+UC01014,Pune,Painting,2025-09-05,21,Friday,humid,2975,82,3.8,cancelled,0.78
+UC01015,Bangalore,AC Repair,2025-11-26,13,Wednesday,partly_cloudy,794,58,3.2,no_show,0.76
+UC01016,Mumbai,Carpentry,2026-07-01,18,Wednesday,partly_cloudy,611,53,3.2,cancelled,0.64
+UC01017,Pune,Electrician,2026-08-19,19,Wednesday,partly_cloudy,597,67,4.6,cancelled,0.49
+UC01018,Delhi,Salon at Home,2026-08-01,8,Saturday,sunny,328,66,3.2,no_show,0.46
+UC01019,Delhi,Salon at Home,2026-06-28,19,Sunday,sunny,450,91,3.8,cancelled,0.51
+UC01020,Delhi,Plumbing,2025-11-04,9,Tuesday,humid,396,148,4.6,completed,0.58
+UC01021,Bangalore,Salon at Home,2026-06-02,16,Tuesday,humid,436,76,4.5,completed,0.98
+UC01022,Kolkata,Electrician,2025-10-31,17,Friday,cloudy,400,159,4.6,completed,0.33
+UC01023,Pune,Deep Cleaning,2026-06-22,10,Monday,sunny,1292,110,4.7,completed,0.36
+UC01024,Delhi,Pest Control,2025-11-03,16,Monday,cloudy,757,45,3.5,completed,0.96
+UC01025,Pune,Pest Control,2026-05-24,16,Sunday,partly_cloudy,684,170,4.4,no_show,0.94
+UC01026,Pune,Deep Cleaning,2026-02-28,9,Saturday,sunny,1209,54,3.4,completed,0.9
+UC01027,Chennai,Electrician,2025-12-20,16,Saturday,cloudy,550,136,3.6,no_show,0.6
+UC01028,Delhi,Pest Control,2026-06-09,14,Tuesday,cloudy,751,161,3.2,completed,0.77
+UC01029,Chennai,Electrician,2026-08-22,11,Saturday,sunny,560,113,5.0,completed,0.8
+UC01030,Hyderabad,Electrician,2026-06-16,21,Tuesday,cloudy,479,156,3.8,no_show,0.47
+UC01031,Chennai,Plumbing,2026-01-17,9,Saturday,humid,453,61,3.7,completed,0.55
+UC01032,Mumbai,Pest Control,2026-02-18,21,Wednesday,cloudy,719,47,3.2,completed,0.57
+UC01033,Mumbai,Plumbing,2025-10-24,16,Friday,rainy,499,170,3.2,completed,0.79
+UC01034,Chennai,Pest Control,2026-01-23,9,Friday,sunny,692,126,4.9,cancelled,0.43
+UC01035,Hyderabad,Carpentry,2026-08-14,17,Friday,cloudy,615,47,4.4,completed,0.76
+UC01036,Chennai,Carpentry,2025-11-13,19,Thursday,rainy,562,139,4.4,completed,0.77
+UC01037,Mumbai,Salon at Home,2026-04-03,15,Friday,rainy,418,173,3.6,cancelled,0.66
+UC01038,Pune,Pest Control,2025-12-27,21,Saturday,sunny,727,149,4.5,completed,0.74
+UC01039,Bangalore,Deep Cleaning,2025-10-10,10,Friday,humid,1163,66,4.5,no_show,0.95
+UC01040,Pune,Carpentry,2025-09-06,16,Saturday,cloudy,671,172,4.0,no_show,0.79
+UC01041,Chennai,AC Repair,2026-03-27,11,Friday,sunny,931,153,4.4,completed,0.47
+UC01042,Chennai,AC Repair,2026-08-05,15,Wednesday,cloudy,921,179,4.8,completed,0.35
+UC01043,Bangalore,Painting,2025-11-08,14,Saturday,partly_cloudy,3046,88,3.7,completed,0.54
+UC01044,Kolkata,Deep Cleaning,2026-08-14,16,Friday,sunny,1223,121,4.0,completed,0.45
+UC01045,Mumbai,Carpentry,2026-07-21,12,Tuesday,humid,558,163,4.8,cancelled,0.34
+UC01046,Delhi,Salon at Home,2025-09-04,12,Thursday,rainy,326,46,3.7,completed,0.58
+UC01047,Hyderabad,Plumbing,2025-09-05,15,Friday,cloudy,370,180,4.0,completed,0.59
+UC01048,Mumbai,AC Repair,2026-05-08,20,Friday,rainy,806,165,3.8,completed,0.56
+UC01049,Bangalore,Pest Control,2025-12-03,15,Wednesday,partly_cloudy,690,80,3.7,cancelled,0.3
+UC01050,Bangalore,Deep Cleaning,2026-08-30,11,Sunday,rainy,1159,79,3.8,completed,0.93
+UC01051,Hyderabad,Deep Cleaning,2025-11-22,18,Saturday,rainy,1179,152,4.0,cancelled,0.86
+UC01052,Kolkata,Painting,2025-11-05,20,Wednesday,partly_cloudy,3077,144,3.3,completed,0.85
+UC01053,Delhi,Electrician,2025-11-04,16,Tuesday,sunny,595,105,3.1,completed,0.6
+UC01054,Hyderabad,AC Repair,2026-07-03,15,Friday,rainy,821,169,3.2,cancelled,0.47
+UC01055,Mumbai,Electrician,2025-11-18,12,Tuesday,sunny,466,108,4.3,cancelled,0.44
+UC01056,Pune,Plumbing,2026-08-28,19,Friday,humid,505,91,3.4,no_show,0.74
+UC01057,Bangalore,Deep Cleaning,2025-11-16,10,Sunday,partly_cloudy,1158,115,5.0,completed,0.6
+UC01058,Bangalore,Deep Cleaning,2026-07-13,21,Monday,sunny,1246,149,4.0,completed,0.46
+UC01059,Bangalore,Salon at Home,2026-04-07,16,Tuesday,partly_cloudy,463,58,3.6,completed,0.55
+UC01060,Mumbai,Carpentry,2026-02-27,13,Friday,sunny,595,55,3.0,completed,0.45
+UC01061,Chennai,Pest Control,2026-04-30,9,Thursday,partly_cloudy,696,109,4.9,completed,0.53
+UC01062,Pune,Plumbing,2025-10-28,8,Tuesday,humid,546,78,3.7,completed,0.82
+UC01063,Mumbai,Painting,2026-06-29,18,Monday,rainy,3002,143,3.2,completed,0.39
+UC01064,Bangalore,Plumbing,2026-07-06,17,Monday,cloudy,398,159,4.9,completed,0.96
+UC01065,Delhi,Painting,2026-07-14,19,Tuesday,partly_cloudy,3143,96,4.1,completed,0.33
+UC01066,Chennai,Carpentry,2025-12-08,19,Monday,rainy,743,133,4.8,cancelled,0.74
+UC01067,Bangalore,Carpentry,2025-10-31,15,Friday,partly_cloudy,683,173,4.6,completed,0.72
+UC01068,Delhi,Electrician,2026-08-23,8,Sunday,humid,414,93,4.5,cancelled,0.65
+UC01069,Mumbai,Plumbing,2026-05-31,15,Sunday,humid,447,144,3.8,completed,0.44
+UC01070,Chennai,Electrician,2025-09-02,11,Tuesday,humid,577,47,4.8,no_show,0.62
+UC01071,Delhi,Pest Control,2026-08-29,21,Saturday,cloudy,724,113,4.1,completed,0.46
+UC01072,Delhi,Deep Cleaning,2026-06-01,8,Monday,cloudy,1220,79,3.5,completed,0.75
+UC01073,Chennai,Deep Cleaning,2026-01-06,9,Tuesday,sunny,1315,133,4.3,completed,0.53
+UC01074,Pune,Pest Control,2026-08-28,10,Friday,partly_cloudy,805,120,3.6,completed,0.74
+UC01075,Mumbai,Painting,2025-09-06,19,Saturday,rainy,2994,110,4.9,no_show,0.76
+UC01076,Pune,Plumbing,2026-06-26,19,Friday,partly_cloudy,516,110,4.7,no_show,0.69
+UC01077,Delhi,Deep Cleaning,2026-04-15,12,Wednesday,cloudy,1297,146,3.3,completed,0.81
+UC01078,Mumbai,Painting,2026-04-11,15,Saturday,sunny,3075,91,3.9,completed,0.43
+UC01079,Pune,Electrician,2026-05-10,12,Sunday,sunny,478,86,4.8,cancelled,0.78
+UC01080,Mumbai,Plumbing,2025-12-06,9,Saturday,partly_cloudy,411,161,4.8,cancelled,0.37
+UC01081,Pune,Electrician,2026-05-28,20,Thursday,sunny,553,70,3.8,completed,0.38
+UC01082,Mumbai,AC Repair,2025-09-07,11,Sunday,sunny,817,81,4.9,no_show,0.31
+UC01083,Chennai,Plumbing,2025-09-05,19,Friday,rainy,530,66,3.4,cancelled,0.83
+UC01084,Delhi,Electrician,2026-04-16,13,Thursday,partly_cloudy,438,107,3.1,completed,0.74
+UC01085,Kolkata,AC Repair,2025-11-03,8,Monday,sunny,888,120,3.2,cancelled,0.4
+UC01086,Mumbai,AC Repair,2025-12-24,14,Wednesday,partly_cloudy,786,135,4.3,completed,0.95
+UC01087,Pune,Carpentry,2026-08-17,19,Monday,sunny,674,88,5.0,completed,0.37
+UC01088,Bangalore,Painting,2026-01-23,17,Friday,rainy,2979,137,4.8,completed,0.93
+UC01089,Mumbai,Electrician,2026-07-07,14,Tuesday,humid,484,91,4.4,completed,0.93
+UC01090,Chennai,Pest Control,2026-08-18,21,Tuesday,rainy,738,71,3.5,cancelled,0.76
+UC01091,Kolkata,Plumbing,2026-01-14,8,Wednesday,cloudy,548,82,3.6,cancelled,0.61
+UC01092,Bangalore,Plumbing,2026-05-03,17,Sunday,partly_cloudy,535,116,3.3,completed,1.0
+UC01093,Delhi,Carpentry,2025-12-03,13,Wednesday,partly_cloudy,657,168,4.4,cancelled,0.72
+UC01094,Mumbai,Painting,2026-07-23,20,Thursday,cloudy,3047,152,4.1,no_show,0.67
+UC01095,Hyderabad,Deep Cleaning,2026-05-31,9,Sunday,humid,1332,152,4.1,completed,0.79
+UC01096,Bangalore,Painting,2025-12-30,11,Tuesday,sunny,3041,166,4.9,completed,0.34
+UC01097,Kolkata,Painting,2026-02-26,21,Thursday,cloudy,3024,162,3.3,no_show,0.98
+UC01098,Mumbai,Deep Cleaning,2026-04-04,21,Saturday,cloudy,1163,80,3.2,completed,0.56
+UC01099,Delhi,Carpentry,2025-09-14,8,Sunday,sunny,718,63,4.0,no_show,0.91
+UC01100,Delhi,Electrician,2025-09-16,10,Tuesday,sunny,461,64,3.0,cancelled,0.4
+UC01101,Pune,Salon at Home,2025-12-03,10,Wednesday,humid,477,121,3.9,completed,0.61
+UC01102,Delhi,AC Repair,2026-07-28,9,Tuesday,cloudy,764,53,4.2,completed,0.65
+UC01103,Kolkata,Carpentry,2025-09-06,14,Saturday,partly_cloudy,690,111,4.8,no_show,0.51
+UC01104,Mumbai,Carpentry,2025-12-26,12,Friday,sunny,682,141,5.0,completed,0.82
+UC01105,Mumbai,AC Repair,2026-03-25,14,Wednesday,cloudy,939,64,4.6,cancelled,0.63
+UC01106,Kolkata,Carpentry,2026-08-01,14,Saturday,cloudy,562,140,4.3,completed,0.49
+UC01107,Delhi,Plumbing,2025-10-24,17,Friday,rainy,356,106,3.6,no_show,0.37
+UC01108,Kolkata,AC Repair,2025-12-18,12,Thursday,cloudy,890,96,4.3,completed,0.47
+UC01109,Chennai,AC Repair,2025-10-14,20,Tuesday,partly_cloudy,760,57,3.6,completed,0.31
+UC01110,Hyderabad,Pest Control,2026-03-02,16,Monday,cloudy,729,145,4.5,completed,0.79
+UC01111,Hyderabad,Painting,2025-10-20,19,Monday,humid,2974,173,4.6,completed,0.32
+UC01112,Chennai,Salon at Home,2026-03-15,21,Sunday,sunny,373,86,3.3,cancelled,0.36
+UC01113,Pune,Plumbing,2026-07-18,11,Saturday,cloudy,523,81,4.5,completed,1.0
+UC01114,Hyderabad,Painting,2026-05-15,20,Friday,cloudy,3035,119,3.7,cancelled,0.33
+UC01115,Mumbai,Carpentry,2026-08-31,11,Monday,humid,704,64,4.9,no_show,0.74
+UC01116,Kolkata,Plumbing,2026-05-13,8,Wednesday,cloudy,545,124,4.1,completed,0.65
+UC01117,Mumbai,Painting,2026-04-21,12,Tuesday,cloudy,2966,116,4.2,completed,0.36
+UC01118,Delhi,Salon at Home,2025-12-01,15,Monday,rainy,494,158,4.3,completed,0.96
+UC01119,Bangalore,Salon at Home,2026-06-19,13,Friday,rainy,401,149,4.7,completed,0.61
+UC01120,Delhi,Painting,2026-05-21,9,Thursday,partly_cloudy,3078,160,3.5,completed,0.73
+UC01121,Pune,AC Repair,2026-07-27,20,Monday,cloudy,928,47,3.3,completed,0.5
+UC01122,Kolkata,Carpentry,2025-11-21,9,Friday,cloudy,648,163,4.3,completed,0.63
+UC01123,Bangalore,Salon at Home,2026-07-26,9,Sunday,cloudy,486,72,4.8,cancelled,0.84
+UC01124,Delhi,Carpentry,2025-12-12,9,Friday,rainy,636,169,3.4,cancelled,0.38
+UC01125,Chennai,AC Repair,2026-04-21,10,Tuesday,partly_cloudy,786,99,3.6,completed,0.99
+UC01126,Kolkata,AC Repair,2026-03-14,13,Saturday,partly_cloudy,870,99,3.1,completed,0.97
+UC01127,Delhi,Carpentry,2026-08-17,12,Monday,cloudy,570,81,3.1,cancelled,0.36
+UC01128,Kolkata,Salon at Home,2026-08-31,14,Monday,humid,353,111,3.4,completed,0.36
+UC01129,Kolkata,Painting,2026-04-08,12,Wednesday,cloudy,2999,134,4.9,cancelled,0.63
+UC01130,Pune,Electrician,2026-08-19,14,Wednesday,rainy,576,144,4.6,no_show,0.85
+UC01131,Bangalore,Deep Cleaning,2026-07-03,19,Friday,humid,1306,82,3.6,completed,0.31
+UC01132,Hyderabad,Electrician,2026-04-23,21,Thursday,rainy,428,149,3.5,completed,0.99
+UC01133,Pune,Salon at Home,2025-11-04,17,Tuesday,sunny,308,100,4.5,completed,0.59
+UC01134,Chennai,Electrician,2026-06-07,14,Sunday,cloudy,488,98,4.9,no_show,0.97
+UC01135,Bangalore,Painting,2026-03-09,12,Monday,rainy,3077,76,4.4,cancelled,0.59
+UC01136,Kolkata,Painting,2026-02-28,16,Saturday,partly_cloudy,3082,130,3.2,completed,0.62
+UC01137,Chennai,Electrician,2026-03-11,17,Wednesday,cloudy,537,156,3.8,cancelled,0.74
+UC01138,Bangalore,Plumbing,2026-08-26,20,Wednesday,sunny,371,49,4.2,cancelled,0.37
+UC01139,Pune,Plumbing,2026-07-17,15,Friday,humid,497,53,4.3,cancelled,0.45
+UC01140,Bangalore,Carpentry,2026-04-21,11,Tuesday,partly_cloudy,580,134,4.9,cancelled,0.59
+UC01141,Bangalore,Carpentry,2026-07-28,13,Tuesday,cloudy,678,117,3.5,completed,0.52
+UC01142,Bangalore,Deep Cleaning,2026-04-01,14,Wednesday,sunny,1152,51,3.3,completed,0.89
+UC01143,Delhi,Painting,2026-05-24,10,Sunday,humid,3059,106,4.1,cancelled,0.43
+UC01144,Kolkata,Carpentry,2026-07-27,8,Monday,humid,658,77,4.9,cancelled,0.98
+UC01145,Delhi,Carpentry,2025-11-28,16,Friday,cloudy,660,104,3.2,completed,0.65
+UC01146,Kolkata,Carpentry,2026-07-21,20,Tuesday,rainy,690,85,4.9,completed,0.37
+UC01147,Bangalore,Carpentry,2025-09-14,18,Sunday,humid,588,52,4.2,no_show,0.94
+UC01148,Bangalore,Carpentry,2025-10-11,19,Saturday,cloudy,665,136,3.4,completed,0.51
+UC01149,Pune,Deep Cleaning,2026-06-02,20,Tuesday,partly_cloudy,1346,111,4.3,completed,0.36
+UC01150,Pune,AC Repair,2025-11-13,17,Thursday,sunny,777,162,4.9,completed,0.37
+UC01151,Mumbai,Pest Control,2026-01-23,9,Friday,sunny,775,137,4.8,completed,0.57
+UC01152,Hyderabad,AC Repair,2026-05-10,9,Sunday,partly_cloudy,909,64,3.4,cancelled,0.56
+UC01153,Kolkata,Salon at Home,2026-02-08,10,Sunday,cloudy,375,47,4.8,no_show,0.74
+UC01154,Delhi,Plumbing,2025-09-17,13,Wednesday,partly_cloudy,506,46,3.3,completed,0.95
+UC01155,Chennai,AC Repair,2025-12-08,8,Monday,humid,880,84,3.4,completed,0.38
+UC01156,Delhi,AC Repair,2025-12-21,10,Sunday,cloudy,770,77,3.5,cancelled,0.44
+UC01157,Pune,Painting,2025-10-18,16,Saturday,rainy,3068,171,3.9,cancelled,0.95
+UC01158,Mumbai,Electrician,2026-01-07,18,Wednesday,rainy,499,71,4.2,no_show,0.52
+UC01159,Hyderabad,Salon at Home,2025-12-15,15,Monday,partly_cloudy,451,114,4.6,no_show,0.38
+UC01160,Mumbai,Carpentry,2026-03-16,17,Monday,rainy,644,61,3.9,completed,0.97
+UC01161,Delhi,Carpentry,2026-01-08,17,Thursday,humid,639,146,3.1,completed,0.87
+UC01162,Delhi,Electrician,2026-04-08,11,Wednesday,sunny,454,140,3.7,completed,0.39
+UC01163,Pune,AC Repair,2026-02-11,13,Wednesday,cloudy,868,127,4.8,no_show,0.35
+UC01164,Chennai,Deep Cleaning,2026-01-24,11,Saturday,sunny,1292,116,4.4,completed,0.7
+UC01165,Pune,Carpentry,2026-07-28,20,Tuesday,partly_cloudy,630,126,3.4,completed,0.86
+UC01166,Delhi,AC Repair,2026-05-14,14,Thursday,sunny,780,160,3.3,completed,0.71
+UC01167,Delhi,AC Repair,2025-12-31,8,Wednesday,humid,750,163,3.6,cancelled,0.33
+UC01168,Delhi,AC Repair,2026-06-01,18,Monday,sunny,766,165,3.2,cancelled,0.81
+UC01169,Kolkata,Painting,2026-01-19,13,Monday,partly_cloudy,2969,125,4.0,completed,0.58
+UC01170,Hyderabad,Salon at Home,2026-08-23,21,Sunday,sunny,394,71,3.1,completed,0.88
+UC01171,Delhi,Plumbing,2025-11-11,21,Tuesday,partly_cloudy,406,88,3.2,completed,0.87
+UC01172,Pune,AC Repair,2026-06-03,21,Wednesday,sunny,815,56,3.2,completed,0.35
+UC01173,Delhi,Carpentry,2026-02-16,19,Monday,cloudy,584,162,3.2,completed,0.9
+UC01174,Pune,Carpentry,2026-06-27,15,Saturday,sunny,682,180,3.5,cancelled,0.76
+UC01175,Kolkata,Painting,2026-01-22,19,Thursday,partly_cloudy,3006,68,3.5,completed,0.8
+UC01176,Pune,Deep Cleaning,2026-02-28,18,Saturday,cloudy,1326,64,3.2,cancelled,0.34
+UC01177,Hyderabad,Deep Cleaning,2025-09-07,21,Sunday,partly_cloudy,1197,169,3.2,completed,0.87
+UC01178,Kolkata,Painting,2026-05-29,12,Friday,partly_cloudy,3116,84,4.7,completed,0.94
+UC01179,Hyderabad,Painting,2025-12-22,15,Monday,humid,3080,96,4.6,completed,0.35
+UC01180,Pune,Electrician,2026-04-05,12,Sunday,humid,564,71,3.3,completed,0.82
+UC01181,Hyderabad,AC Repair,2026-01-02,10,Friday,rainy,756,166,4.3,cancelled,0.55
+UC01182,Delhi,Plumbing,2025-10-31,14,Friday,cloudy,387,146,4.0,no_show,0.53
+UC01183,Delhi,Pest Control,2026-04-14,9,Tuesday,sunny,815,142,4.5,cancelled,0.44
+UC01184,Mumbai,Carpentry,2025-12-06,17,Saturday,rainy,684,171,4.0,completed,0.78
+UC01185,Bangalore,Deep Cleaning,2026-07-28,11,Tuesday,sunny,1162,54,4.2,completed,0.35
+UC01186,Mumbai,Pest Control,2025-10-22,17,Wednesday,partly_cloudy,749,145,3.2,completed,0.65
+UC01187,Delhi,Deep Cleaning,2025-11-27,18,Thursday,rainy,1329,118,4.5,completed,0.43
+UC01188,Pune,Salon at Home,2026-08-25,12,Tuesday,cloudy,342,125,4.4,completed,0.43
+UC01189,Bangalore,Electrician,2026-04-22,18,Wednesday,partly_cloudy,508,130,3.0,completed,0.92
+UC01190,Chennai,AC Repair,2025-11-27,13,Thursday,partly_cloudy,898,45,4.0,completed,0.63
+UC01191,Chennai,AC Repair,2025-09-24,18,Wednesday,rainy,807,179,4.0,completed,0.84
+UC01192,Kolkata,Pest Control,2025-10-22,19,Wednesday,rainy,764,170,4.5,no_show,0.48
+UC01193,Delhi,Pest Control,2026-05-08,15,Friday,sunny,739,122,4.4,no_show,0.84
+UC01194,Bangalore,Salon at Home,2026-07-03,12,Friday,humid,485,50,3.3,cancelled,0.9
+UC01195,Delhi,Electrician,2026-08-04,15,Tuesday,sunny,461,155,3.7,completed,0.44
+UC01196,Delhi,Plumbing,2026-03-13,18,Friday,humid,464,179,3.3,completed,0.92
+UC01197,Delhi,Carpentry,2026-03-20,12,Friday,cloudy,559,178,4.4,no_show,0.39
+UC01198,Delhi,Painting,2026-04-21,9,Tuesday,sunny,3076,82,3.9,completed,0.67
+UC01199,Delhi,Electrician,2026-01-27,15,Tuesday,rainy,415,120,3.0,completed,0.45
+UC01200,Bangalore,Plumbing,2026-07-01,15,Wednesday,rainy,350,155,3.7,completed,0.33

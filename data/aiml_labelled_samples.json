@@ -1,0 +1,282 @@
+[
+  {
+    "text": "ac not cooling",
+    "label": "AC Repair",
+    "confidence": 0.84
+  },
+  {
+    "text": "air conditioner noise",
+    "label": "AC Repair",
+    "confidence": 0.97
+  },
+  {
+    "text": "gas refill",
+    "label": "AC Repair",
+    "confidence": 0.95
+  },
+  {
+    "text": "AC servicing",
+    "label": "AC Repair",
+    "confidence": 0.91
+  },
+  {
+    "text": "split AC installation",
+    "label": "AC Repair",
+    "confidence": 0.98
+  },
+  {
+    "text": "need split AC installation urgently",
+    "label": "AC Repair",
+    "confidence": 0.78
+  },
+  {
+    "text": "need ac not cooling urgently",
+    "label": "AC Repair",
+    "confidence": 0.89
+  },
+  {
+    "text": "need air conditioner noise urgently",
+    "label": "AC Repair",
+    "confidence": 0.95
+  },
+  {
+    "text": "pipe leak",
+    "label": "Plumbing",
+    "confidence": 0.85
+  },
+  {
+    "text": "drain clog",
+    "label": "Plumbing",
+    "confidence": 0.92
+  },
+  {
+    "text": "tap repair",
+    "label": "Plumbing",
+    "confidence": 0.83
+  },
+  {
+    "text": "water heater install",
+    "label": "Plumbing",
+    "confidence": 0.86
+  },
+  {
+    "text": "toilet flush issue",
+    "label": "Plumbing",
+    "confidence": 0.9
+  },
+  {
+    "text": "need tap repair urgently",
+    "label": "Plumbing",
+    "confidence": 0.8
+  },
+  {
+    "text": "need water heater install urgently",
+    "label": "Plumbing",
+    "confidence": 0.83
+  },
+  {
+    "text": "need pipe leak urgently",
+    "label": "Plumbing",
+    "confidence": 0.93
+  },
+  {
+    "text": "short circuit",
+    "label": "Electrician",
+    "confidence": 0.98
+  },
+  {
+    "text": "fan wiring",
+    "label": "Electrician",
+    "confidence": 0.92
+  },
+  {
+    "text": "switch board repair",
+    "label": "Electrician",
+    "confidence": 0.85
+  },
+  {
+    "text": "power outage",
+    "label": "Electrician",
+    "confidence": 0.89
+  },
+  {
+    "text": "CCTV install",
+    "label": "Electrician",
+    "confidence": 0.97
+  },
+  {
+    "text": "need CCTV install urgently",
+    "label": "Electrician",
+    "confidence": 0.78
+  },
+  {
+    "text": "need fan wiring urgently",
+    "label": "Electrician",
+    "confidence": 0.8
+  },
+  {
+    "text": "need power outage urgently",
+    "label": "Electrician",
+    "confidence": 0.86
+  },
+  {
+    "text": "kitchen deep clean",
+    "label": "Deep Cleaning",
+    "confidence": 0.87
+  },
+  {
+    "text": "bathroom sanitize",
+    "label": "Deep Cleaning",
+    "confidence": 0.83
+  },
+  {
+    "text": "sofa shampooing",
+    "label": "Deep Cleaning",
+    "confidence": 0.92
+  },
+  {
+    "text": "water tank cleaning",
+    "label": "Deep Cleaning",
+    "confidence": 0.93
+  },
+  {
+    "text": "full home cleaning",
+    "label": "Deep Cleaning",
+    "confidence": 0.91
+  },
+  {
+    "text": "need water tank cleaning urgently",
+    "label": "Deep Cleaning",
+    "confidence": 0.91
+  },
+  {
+    "text": "need water tank cleaning urgently",
+    "label": "Deep Cleaning",
+    "confidence": 0.77
+  },
+  {
+    "text": "need full home cleaning urgently",
+    "label": "Deep Cleaning",
+    "confidence": 0.84
+  },
+  {
+    "text": "cockroach treatment",
+    "label": "Pest Control",
+    "confidence": 0.87
+  },
+  {
+    "text": "termite control",
+    "label": "Pest Control",
+    "confidence": 0.98
+  },
+  {
+    "text": "rodent pest",
+    "label": "Pest Control",
+    "confidence": 0.94
+  },
+  {
+    "text": "bed bug treatment",
+    "label": "Pest Control",
+    "confidence": 0.9
+  },
+  {
+    "text": "mosquito spray",
+    "label": "Pest Control",
+    "confidence": 0.89
+  },
+  {
+    "text": "need bed bug treatment urgently",
+    "label": "Pest Control",
+    "confidence": 0.94
+  },
+  {
+    "text": "need bed bug treatment urgently",
+    "label": "Pest Control",
+    "confidence": 0.76
+  },
+  {
+    "text": "need mosquito spray urgently",
+    "label": "Pest Control",
+    "confidence": 0.76
+  },
+  {
+    "text": "interior painting",
+    "label": "Painting",
+    "confidence": 0.95
+  },
+  {
+    "text": "exterior waterproofing",
+    "label": "Painting",
+    "confidence": 0.84
+  },
+  {
+    "text": "texture painting",
+    "label": "Painting",
+    "confidence": 0.84
+  },
+  {
+    "text": "wood polish",
+    "label": "Painting",
+    "confidence": 0.97
+  },
+  {
+    "text": "wall putty",
+    "label": "Painting",
+    "confidence": 0.95
+  },
+  {
+    "text": "need wall putty urgently",
+    "label": "Painting",
+    "confidence": 0.85
+  },
+  {
+    "text": "need exterior waterproofing urgently",
+    "label": "Painting",
+    "confidence": 0.87
+  },
+  {
+    "text": "need wall putty urgently",
+    "label": "Painting",
+    "confidence": 0.93
+  },
+  {
+    "text": "haircut at home",
+    "label": "Salon at Home",
+    "confidence": 0.83
+  },
+  {
+    "text": "facial",
+    "label": "Salon at Home",
+    "confidence": 0.96
+  },
+  {
+    "text": "waxing",
+    "label": "Salon at Home",
+    "confidence": 0.84
+  },
+  {
+    "text": "bridal makeup",
+    "label": "Salon at Home",
+    "confidence": 0.93
+  },
+  {
+    "text": "manicure pedicure",
+    "label": "Salon at Home",
+    "confidence": 0.9
+  },
+  {
+    "text": "need manicure pedicure urgently",
+    "label": "Salon at Home",
+    "confidence": 0.84
+  },
+  {
+    "text": "need haircut at home urgently",
+    "label": "Salon at Home",
+    "confidence": 0.77
+  },
+  {
+    "text": "need waxing urgently",
+    "label": "Salon at Home",
+    "confidence": 0.92
+  }
+]

@@ -1,0 +1,901 @@
+user_id,course_id,course_name,category,level,sequence,completed,quiz_score,rating,relevant
+U001,C001,Python Programming,Programming,Beginner,1,1,92,4.1,0
+U001,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,93,4.3,0
+U001,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U001,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U001,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U001,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U001,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U001,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U001,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U002,C013,Statistics for Data Science,Data,Beginner,1,1,93,4.1,0
+U002,C005,SQL Fundamentals,Data,Beginner,2,1,93,4.9,0
+U002,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U002,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U002,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U002,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U002,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U002,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U002,C016,Docker and Kubernetes,DevOps,Intermediate,0,0,0,0.0,0
+U003,C017,Computer Networks,Networking,Beginner,1,1,88,4.0,0
+U003,C018,Network Security,Networking,Intermediate,2,1,83,4.2,0
+U003,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U003,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U003,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U003,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U003,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U003,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U003,C014,Natural Language Processing,AI/ML,Intermediate,0,0,0,0.0,0
+U004,C009,Cloud Computing Basics,Cloud,Beginner,1,1,82,4.6,0
+U004,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,93,4.6,0
+U004,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U004,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U004,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U004,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U004,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U004,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U004,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U005,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,85,4.4,0
+U005,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,86,4.8,0
+U005,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U005,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U005,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U005,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U005,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U005,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U005,C003,Machine Learning Basics,AI/ML,Beginner,0,0,0,0.0,0
+U006,C003,Machine Learning Basics,AI/ML,Beginner,1,1,93,4.4,0
+U006,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,86,4.2,0
+U006,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U006,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U006,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U006,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U006,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U006,C018,Network Security,Networking,Intermediate,0,0,0,0.0,0
+U006,C010,AWS Cloud Practitioner,Cloud,Intermediate,0,0,0,0.0,0
+U007,C001,Python Programming,Programming,Beginner,1,1,83,4.1,0
+U007,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,83,4.4,0
+U007,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U007,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U007,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U007,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U007,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U007,C010,AWS Cloud Practitioner,Cloud,Intermediate,0,0,0,0.0,0
+U007,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U008,C013,Statistics for Data Science,Data,Beginner,1,1,86,4.8,0
+U008,C005,SQL Fundamentals,Data,Beginner,2,1,93,4.5,0
+U008,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U008,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U008,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U008,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U008,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U008,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U008,C011,Web Development with HTML CSS,Web Development,Beginner,0,0,0,0.0,0
+U009,C017,Computer Networks,Networking,Beginner,1,1,83,4.6,0
+U009,C018,Network Security,Networking,Intermediate,2,1,95,4.6,0
+U009,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U009,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U009,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U009,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U009,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U009,C006,Data Analysis with Python,Data,Intermediate,0,0,0,0.0,0
+U009,C014,Natural Language Processing,AI/ML,Intermediate,0,0,0,0.0,0
+U010,C009,Cloud Computing Basics,Cloud,Beginner,1,1,85,4.7,0
+U010,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,82,4.7,0
+U010,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U010,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U010,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U010,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U010,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U010,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U010,C006,Data Analysis with Python,Data,Intermediate,0,0,0,0.0,0
+U011,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,83,4.9,0
+U011,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,95,4.1,0
+U011,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U011,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U011,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U011,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U011,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U011,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
+U011,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U012,C003,Machine Learning Basics,AI/ML,Beginner,1,1,92,4.8,0
+U012,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,84,4.4,0
+U012,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U012,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U012,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U012,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U012,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U012,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U012,C016,Docker and Kubernetes,DevOps,Intermediate,0,0,0,0.0,0
+U013,C001,Python Programming,Programming,Beginner,1,1,86,4.7,0
+U013,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,92,4.6,0
+U013,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U013,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U013,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U013,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U013,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U013,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U013,C016,Docker and Kubernetes,DevOps,Intermediate,0,0,0,0.0,0
+U014,C013,Statistics for Data Science,Data,Beginner,1,1,84,4.5,0
+U014,C005,SQL Fundamentals,Data,Beginner,2,1,85,4.2,0
+U014,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U014,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U014,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U014,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U014,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U014,C011,Web Development with HTML CSS,Web Development,Beginner,0,0,0,0.0,0
+U014,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U015,C017,Computer Networks,Networking,Beginner,1,1,92,4.7,0
+U015,C018,Network Security,Networking,Intermediate,2,1,85,4.7,0
+U015,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U015,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U015,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U015,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U015,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U015,C020,MLOps with MLflow,AI/ML,Advanced,0,0,0,0.0,0
+U015,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U016,C009,Cloud Computing Basics,Cloud,Beginner,1,1,85,4.8,0
+U016,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,94,4.3,0
+U016,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U016,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U016,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U016,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U016,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U016,C006,Data Analysis with Python,Data,Intermediate,0,0,0,0.0,0
+U016,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U017,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,85,4.9,0
+U017,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,91,4.9,0
+U017,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U017,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U017,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U017,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U017,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U017,C006,Data Analysis with Python,Data,Intermediate,0,0,0,0.0,0
+U017,C004,Deep Learning Fundamentals,AI/ML,Intermediate,0,0,0,0.0,0
+U018,C003,Machine Learning Basics,AI/ML,Beginner,1,1,92,4.5,0
+U018,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,92,4.5,0
+U018,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U018,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U018,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U018,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U018,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U018,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U018,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U019,C001,Python Programming,Programming,Beginner,1,1,85,4.7,0
+U019,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,90,4.3,0
+U019,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U019,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U019,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U019,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U019,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U019,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U019,C011,Web Development with HTML CSS,Web Development,Beginner,0,0,0,0.0,0
+U020,C013,Statistics for Data Science,Data,Beginner,1,1,91,4.4,0
+U020,C005,SQL Fundamentals,Data,Beginner,2,1,85,5.0,0
+U020,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U020,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U020,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U020,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U020,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U020,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U020,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U021,C017,Computer Networks,Networking,Beginner,1,1,89,4.1,0
+U021,C018,Network Security,Networking,Intermediate,2,1,82,4.9,0
+U021,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U021,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U021,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U021,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U021,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U021,C003,Machine Learning Basics,AI/ML,Beginner,0,0,0,0.0,0
+U021,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U022,C009,Cloud Computing Basics,Cloud,Beginner,1,1,84,4.8,0
+U022,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,88,4.6,0
+U022,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U022,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U022,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U022,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U022,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U022,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U022,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U023,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,91,5.0,0
+U023,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,90,4.3,0
+U023,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U023,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U023,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U023,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U023,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U023,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U023,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U024,C003,Machine Learning Basics,AI/ML,Beginner,1,1,92,4.7,0
+U024,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,92,4.9,0
+U024,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U024,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U024,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U024,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U024,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U024,C018,Network Security,Networking,Intermediate,0,0,0,0.0,0
+U024,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U025,C001,Python Programming,Programming,Beginner,1,1,94,4.6,0
+U025,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,83,4.3,0
+U025,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U025,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U025,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U025,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U025,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U025,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U025,C012,Backend Development with FastAPI,Web Development,Intermediate,0,0,0,0.0,0
+U026,C013,Statistics for Data Science,Data,Beginner,1,1,82,5.0,0
+U026,C005,SQL Fundamentals,Data,Beginner,2,1,93,4.3,0
+U026,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U026,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U026,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U026,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U026,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U026,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U026,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U027,C017,Computer Networks,Networking,Beginner,1,1,90,4.9,0
+U027,C018,Network Security,Networking,Intermediate,2,1,95,4.6,0
+U027,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U027,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U027,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U027,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U027,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U027,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U027,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U028,C009,Cloud Computing Basics,Cloud,Beginner,1,1,91,4.2,0
+U028,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,87,4.8,0
+U028,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U028,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U028,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U028,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U028,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U028,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U028,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U029,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,82,4.6,0
+U029,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,89,4.0,0
+U029,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U029,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U029,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U029,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U029,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U029,C006,Data Analysis with Python,Data,Intermediate,0,0,0,0.0,0
+U029,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
+U030,C003,Machine Learning Basics,AI/ML,Beginner,1,1,85,4.1,0
+U030,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,91,4.9,0
+U030,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U030,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U030,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U030,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U030,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U030,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U030,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U031,C001,Python Programming,Programming,Beginner,1,1,89,4.8,0
+U031,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,94,4.5,0
+U031,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U031,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U031,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U031,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U031,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U031,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U031,C018,Network Security,Networking,Intermediate,0,0,0,0.0,0
+U032,C013,Statistics for Data Science,Data,Beginner,1,1,92,4.5,0
+U032,C005,SQL Fundamentals,Data,Beginner,2,1,90,4.2,0
+U032,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U032,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U032,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U032,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U032,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U032,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U032,C016,Docker and Kubernetes,DevOps,Intermediate,0,0,0,0.0,0
+U033,C017,Computer Networks,Networking,Beginner,1,1,88,5.0,0
+U033,C018,Network Security,Networking,Intermediate,2,1,90,4.8,0
+U033,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U033,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U033,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U033,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U033,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U033,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U033,C004,Deep Learning Fundamentals,AI/ML,Intermediate,0,0,0,0.0,0
+U034,C009,Cloud Computing Basics,Cloud,Beginner,1,1,93,4.3,0
+U034,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,92,4.6,0
+U034,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U034,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U034,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U034,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U034,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U034,C011,Web Development with HTML CSS,Web Development,Beginner,0,0,0,0.0,0
+U034,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U035,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,89,4.1,0
+U035,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,85,4.1,0
+U035,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U035,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U035,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U035,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U035,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U035,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U035,C014,Natural Language Processing,AI/ML,Intermediate,0,0,0,0.0,0
+U036,C003,Machine Learning Basics,AI/ML,Beginner,1,1,90,4.2,0
+U036,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,85,4.0,0
+U036,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U036,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U036,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U036,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U036,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U036,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U036,C016,Docker and Kubernetes,DevOps,Intermediate,0,0,0,0.0,0
+U037,C001,Python Programming,Programming,Beginner,1,1,82,4.2,0
+U037,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,82,4.9,0
+U037,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U037,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U037,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U037,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U037,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U037,C006,Data Analysis with Python,Data,Intermediate,0,0,0,0.0,0
+U037,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U038,C013,Statistics for Data Science,Data,Beginner,1,1,85,4.3,0
+U038,C005,SQL Fundamentals,Data,Beginner,2,1,89,4.2,0
+U038,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U038,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U038,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U038,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U038,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U038,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U038,C018,Network Security,Networking,Intermediate,0,0,0,0.0,0
+U039,C017,Computer Networks,Networking,Beginner,1,1,91,4.6,0
+U039,C018,Network Security,Networking,Intermediate,2,1,85,4.8,0
+U039,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U039,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U039,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U039,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U039,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U039,C020,MLOps with MLflow,AI/ML,Advanced,0,0,0,0.0,0
+U039,C011,Web Development with HTML CSS,Web Development,Beginner,0,0,0,0.0,0
+U040,C009,Cloud Computing Basics,Cloud,Beginner,1,1,85,4.1,0
+U040,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,92,4.4,0
+U040,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U040,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U040,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U040,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U040,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U040,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U040,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U041,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,89,4.9,0
+U041,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,82,4.7,0
+U041,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U041,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U041,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U041,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U041,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U041,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U041,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U042,C003,Machine Learning Basics,AI/ML,Beginner,1,1,82,4.4,0
+U042,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,87,4.8,0
+U042,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U042,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U042,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U042,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U042,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U042,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U042,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U043,C001,Python Programming,Programming,Beginner,1,1,85,4.2,0
+U043,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,89,4.1,0
+U043,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U043,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U043,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U043,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U043,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U043,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U043,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U044,C013,Statistics for Data Science,Data,Beginner,1,1,89,4.2,0
+U044,C005,SQL Fundamentals,Data,Beginner,2,1,83,4.4,0
+U044,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U044,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U044,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U044,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U044,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U044,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U044,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U045,C017,Computer Networks,Networking,Beginner,1,1,82,4.7,0
+U045,C018,Network Security,Networking,Intermediate,2,1,90,4.8,0
+U045,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U045,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U045,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U045,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U045,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U045,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U045,C004,Deep Learning Fundamentals,AI/ML,Intermediate,0,0,0,0.0,0
+U046,C009,Cloud Computing Basics,Cloud,Beginner,1,1,84,4.4,0
+U046,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,89,4.2,0
+U046,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U046,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U046,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U046,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U046,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U046,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U046,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U047,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,84,4.4,0
+U047,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,88,4.3,0
+U047,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U047,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U047,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U047,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U047,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U047,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U047,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U048,C003,Machine Learning Basics,AI/ML,Beginner,1,1,86,4.4,0
+U048,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,93,5.0,0
+U048,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U048,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U048,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U048,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U048,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U048,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U048,C016,Docker and Kubernetes,DevOps,Intermediate,0,0,0,0.0,0
+U049,C001,Python Programming,Programming,Beginner,1,1,93,4.5,0
+U049,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,85,4.3,0
+U049,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U049,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U049,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U049,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U049,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U049,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
+U049,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U050,C013,Statistics for Data Science,Data,Beginner,1,1,93,4.5,0
+U050,C005,SQL Fundamentals,Data,Beginner,2,1,93,4.3,0
+U050,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U050,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U050,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U050,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U050,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U050,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U050,C016,Docker and Kubernetes,DevOps,Intermediate,0,0,0,0.0,0
+U051,C017,Computer Networks,Networking,Beginner,1,1,89,4.5,0
+U051,C018,Network Security,Networking,Intermediate,2,1,95,4.5,0
+U051,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U051,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U051,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U051,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U051,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U051,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U051,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U052,C009,Cloud Computing Basics,Cloud,Beginner,1,1,83,4.9,0
+U052,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,83,4.6,0
+U052,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U052,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U052,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U052,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U052,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U052,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U052,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
+U053,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,88,4.1,0
+U053,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,91,4.2,0
+U053,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U053,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U053,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U053,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U053,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U053,C014,Natural Language Processing,AI/ML,Intermediate,0,0,0,0.0,0
+U053,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U054,C003,Machine Learning Basics,AI/ML,Beginner,1,1,91,4.1,0
+U054,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,92,4.6,0
+U054,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U054,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U054,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U054,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U054,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U054,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U054,C010,AWS Cloud Practitioner,Cloud,Intermediate,0,0,0,0.0,0
+U055,C001,Python Programming,Programming,Beginner,1,1,86,4.2,0
+U055,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,93,4.3,0
+U055,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U055,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U055,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U055,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U055,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U055,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U055,C011,Web Development with HTML CSS,Web Development,Beginner,0,0,0,0.0,0
+U056,C013,Statistics for Data Science,Data,Beginner,1,1,84,4.7,0
+U056,C005,SQL Fundamentals,Data,Beginner,2,1,86,4.5,0
+U056,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U056,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U056,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U056,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U056,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U056,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U056,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U057,C017,Computer Networks,Networking,Beginner,1,1,82,4.5,0
+U057,C018,Network Security,Networking,Intermediate,2,1,91,5.0,0
+U057,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U057,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U057,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U057,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U057,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U057,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U057,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U058,C009,Cloud Computing Basics,Cloud,Beginner,1,1,85,4.5,0
+U058,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,84,4.9,0
+U058,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U058,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U058,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U058,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U058,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U058,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U058,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
+U059,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,87,4.3,0
+U059,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,89,4.8,0
+U059,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U059,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U059,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U059,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U059,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U059,C018,Network Security,Networking,Intermediate,0,0,0,0.0,0
+U059,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
+U060,C003,Machine Learning Basics,AI/ML,Beginner,1,1,91,5.0,0
+U060,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,94,4.7,0
+U060,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U060,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U060,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U060,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U060,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U060,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U060,C016,Docker and Kubernetes,DevOps,Intermediate,0,0,0,0.0,0
+U061,C001,Python Programming,Programming,Beginner,1,1,95,4.6,0
+U061,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,92,4.1,0
+U061,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U061,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U061,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U061,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U061,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U061,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U061,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U062,C013,Statistics for Data Science,Data,Beginner,1,1,83,4.9,0
+U062,C005,SQL Fundamentals,Data,Beginner,2,1,93,4.6,0
+U062,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U062,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U062,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U062,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U062,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U062,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U062,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U063,C017,Computer Networks,Networking,Beginner,1,1,91,4.2,0
+U063,C018,Network Security,Networking,Intermediate,2,1,87,4.2,0
+U063,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U063,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U063,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U063,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U063,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U063,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U063,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
+U064,C009,Cloud Computing Basics,Cloud,Beginner,1,1,90,4.5,0
+U064,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,95,4.1,0
+U064,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U064,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U064,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U064,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U064,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U064,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U064,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U065,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,95,4.3,0
+U065,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,82,4.3,0
+U065,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U065,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U065,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U065,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U065,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U065,C003,Machine Learning Basics,AI/ML,Beginner,0,0,0,0.0,0
+U065,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U066,C003,Machine Learning Basics,AI/ML,Beginner,1,1,86,4.2,0
+U066,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,89,4.6,0
+U066,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U066,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U066,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U066,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U066,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U066,C011,Web Development with HTML CSS,Web Development,Beginner,0,0,0,0.0,0
+U066,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U067,C001,Python Programming,Programming,Beginner,1,1,82,4.1,0
+U067,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,93,4.9,0
+U067,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U067,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U067,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U067,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U067,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U067,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U067,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
+U068,C013,Statistics for Data Science,Data,Beginner,1,1,95,4.4,0
+U068,C005,SQL Fundamentals,Data,Beginner,2,1,90,4.1,0
+U068,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U068,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U068,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U068,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U068,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U068,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U068,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U069,C017,Computer Networks,Networking,Beginner,1,1,86,4.4,0
+U069,C018,Network Security,Networking,Intermediate,2,1,94,5.0,0
+U069,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U069,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U069,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U069,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U069,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U069,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U069,C006,Data Analysis with Python,Data,Intermediate,0,0,0,0.0,0
+U070,C009,Cloud Computing Basics,Cloud,Beginner,1,1,85,4.7,0
+U070,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,92,4.1,0
+U070,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U070,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U070,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U070,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U070,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U070,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U070,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U071,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,95,4.4,0
+U071,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,91,4.7,0
+U071,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U071,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U071,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U071,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U071,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U071,C004,Deep Learning Fundamentals,AI/ML,Intermediate,0,0,0,0.0,0
+U071,C003,Machine Learning Basics,AI/ML,Beginner,0,0,0,0.0,0
+U072,C003,Machine Learning Basics,AI/ML,Beginner,1,1,94,4.8,0
+U072,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,88,4.0,0
+U072,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U072,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U072,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U072,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U072,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U072,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U072,C010,AWS Cloud Practitioner,Cloud,Intermediate,0,0,0,0.0,0
+U073,C001,Python Programming,Programming,Beginner,1,1,94,4.9,0
+U073,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,94,4.7,0
+U073,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U073,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U073,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U073,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U073,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U073,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U073,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U074,C013,Statistics for Data Science,Data,Beginner,1,1,86,4.2,0
+U074,C005,SQL Fundamentals,Data,Beginner,2,1,93,4.1,0
+U074,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U074,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U074,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U074,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U074,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U074,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U074,C012,Backend Development with FastAPI,Web Development,Intermediate,0,0,0,0.0,0
+U075,C017,Computer Networks,Networking,Beginner,1,1,85,4.2,0
+U075,C018,Network Security,Networking,Intermediate,2,1,89,4.3,0
+U075,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U075,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U075,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U075,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U075,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U075,C020,MLOps with MLflow,AI/ML,Advanced,0,0,0,0.0,0
+U075,C004,Deep Learning Fundamentals,AI/ML,Intermediate,0,0,0,0.0,0
+U076,C009,Cloud Computing Basics,Cloud,Beginner,1,1,85,4.0,0
+U076,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,85,4.4,0
+U076,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U076,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U076,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U076,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U076,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U076,C006,Data Analysis with Python,Data,Intermediate,0,0,0,0.0,0
+U076,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U077,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,94,4.3,0
+U077,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,92,4.5,0
+U077,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U077,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U077,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U077,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U077,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U077,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U077,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U078,C003,Machine Learning Basics,AI/ML,Beginner,1,1,87,4.9,0
+U078,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,83,4.9,0
+U078,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U078,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U078,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U078,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U078,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U078,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U078,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U079,C001,Python Programming,Programming,Beginner,1,1,91,5.0,0
+U079,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,86,4.0,0
+U079,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U079,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U079,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U079,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U079,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U079,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U079,C011,Web Development with HTML CSS,Web Development,Beginner,0,0,0,0.0,0
+U080,C013,Statistics for Data Science,Data,Beginner,1,1,87,4.7,0
+U080,C005,SQL Fundamentals,Data,Beginner,2,1,87,4.4,0
+U080,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U080,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U080,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U080,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U080,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U080,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U080,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U081,C017,Computer Networks,Networking,Beginner,1,1,88,4.9,0
+U081,C018,Network Security,Networking,Intermediate,2,1,85,4.3,0
+U081,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U081,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U081,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U081,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U081,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U081,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U081,C011,Web Development with HTML CSS,Web Development,Beginner,0,0,0,0.0,0
+U082,C009,Cloud Computing Basics,Cloud,Beginner,1,1,82,4.5,0
+U082,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,94,4.5,0
+U082,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U082,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U082,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U082,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U082,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U082,C018,Network Security,Networking,Intermediate,0,0,0,0.0,0
+U082,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U083,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,93,4.7,0
+U083,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,87,4.4,0
+U083,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U083,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U083,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U083,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U083,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U083,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U083,C006,Data Analysis with Python,Data,Intermediate,0,0,0,0.0,0
+U084,C003,Machine Learning Basics,AI/ML,Beginner,1,1,91,4.3,0
+U084,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,95,4.1,0
+U084,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U084,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U084,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U084,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U084,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U084,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U084,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U085,C001,Python Programming,Programming,Beginner,1,1,86,4.7,0
+U085,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,87,4.4,0
+U085,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U085,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U085,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U085,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U085,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U085,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U085,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U086,C013,Statistics for Data Science,Data,Beginner,1,1,84,4.2,0
+U086,C005,SQL Fundamentals,Data,Beginner,2,1,92,4.9,0
+U086,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U086,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U086,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U086,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U086,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U086,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U086,C018,Network Security,Networking,Intermediate,0,0,0,0.0,0
+U087,C017,Computer Networks,Networking,Beginner,1,1,84,4.6,0
+U087,C018,Network Security,Networking,Intermediate,2,1,86,4.4,0
+U087,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U087,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U087,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U087,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U087,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U087,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U087,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
+U088,C009,Cloud Computing Basics,Cloud,Beginner,1,1,86,4.2,0
+U088,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,94,4.6,0
+U088,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U088,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U088,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U088,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U088,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U088,C017,Computer Networks,Networking,Beginner,0,0,0,0.0,0
+U088,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U089,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,89,4.4,0
+U089,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,92,4.2,0
+U089,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U089,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U089,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U089,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U089,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U089,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U089,C018,Network Security,Networking,Intermediate,0,0,0,0.0,0
+U090,C003,Machine Learning Basics,AI/ML,Beginner,1,1,84,4.7,0
+U090,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,86,4.5,0
+U090,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U090,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U090,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U090,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U090,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U090,C016,Docker and Kubernetes,DevOps,Intermediate,0,0,0,0.0,0
+U090,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U091,C001,Python Programming,Programming,Beginner,1,1,87,4.1,0
+U091,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,94,4.2,0
+U091,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U091,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U091,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U091,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U091,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U091,C009,Cloud Computing Basics,Cloud,Beginner,0,0,0,0.0,0
+U091,C008,Ethical Hacking,Cybersecurity,Intermediate,0,0,0,0.0,0
+U092,C013,Statistics for Data Science,Data,Beginner,1,1,94,4.2,0
+U092,C005,SQL Fundamentals,Data,Beginner,2,1,82,4.0,0
+U092,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U092,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U092,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U092,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U092,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U092,C012,Backend Development with FastAPI,Web Development,Intermediate,0,0,0,0.0,0
+U092,C016,Docker and Kubernetes,DevOps,Intermediate,0,0,0,0.0,0
+U093,C017,Computer Networks,Networking,Beginner,1,1,95,4.8,0
+U093,C018,Network Security,Networking,Intermediate,2,1,89,4.4,0
+U093,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U093,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U093,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U093,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U093,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U093,C015,DevOps Fundamentals,DevOps,Beginner,0,0,0,0.0,0
+U093,C014,Natural Language Processing,AI/ML,Intermediate,0,0,0,0.0,0
+U094,C009,Cloud Computing Basics,Cloud,Beginner,1,1,85,4.7,0
+U094,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,88,4.5,0
+U094,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U094,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U094,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U094,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U094,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U094,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
+U094,C004,Deep Learning Fundamentals,AI/ML,Intermediate,0,0,0,0.0,0
+U095,C011,Web Development with HTML CSS,Web Development,Beginner,1,1,92,4.7,0
+U095,C012,Backend Development with FastAPI,Web Development,Intermediate,2,1,94,4.9,0
+U095,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U095,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U095,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U095,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U095,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U095,C002,Data Structures and Algorithms,Programming,Intermediate,0,0,0,0.0,0
+U095,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,0,0,0,0.0,0
+U096,C003,Machine Learning Basics,AI/ML,Beginner,1,1,85,4.2,0
+U096,C004,Deep Learning Fundamentals,AI/ML,Intermediate,2,1,93,4.5,0
+U096,C014,Natural Language Processing,AI/ML,Intermediate,3,0,0,0.0,1
+U096,C019,Generative AI Fundamentals,AI/ML,Beginner,4,0,0,0.0,1
+U096,C020,MLOps with MLflow,AI/ML,Advanced,5,0,0,0.0,1
+U096,C006,Data Analysis with Python,Data,Intermediate,6,0,0,0.0,1
+U096,C005,SQL Fundamentals,Data,Beginner,7,0,0,0.0,1
+U096,C001,Python Programming,Programming,Beginner,0,0,0,0.0,0
+U096,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U097,C001,Python Programming,Programming,Beginner,1,1,85,4.9,0
+U097,C002,Data Structures and Algorithms,Programming,Intermediate,2,1,83,4.5,0
+U097,C003,Machine Learning Basics,AI/ML,Beginner,3,0,0,0.0,1
+U097,C004,Deep Learning Fundamentals,AI/ML,Intermediate,4,0,0,0.0,1
+U097,C014,Natural Language Processing,AI/ML,Intermediate,5,0,0,0.0,1
+U097,C019,Generative AI Fundamentals,AI/ML,Beginner,6,0,0,0.0,1
+U097,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U097,C018,Network Security,Networking,Intermediate,0,0,0,0.0,0
+U097,C012,Backend Development with FastAPI,Web Development,Intermediate,0,0,0,0.0,0
+U098,C013,Statistics for Data Science,Data,Beginner,1,1,92,4.5,0
+U098,C005,SQL Fundamentals,Data,Beginner,2,1,90,4.6,0
+U098,C006,Data Analysis with Python,Data,Intermediate,3,0,0,0.0,1
+U098,C003,Machine Learning Basics,AI/ML,Beginner,4,0,0,0.0,1
+U098,C004,Deep Learning Fundamentals,AI/ML,Intermediate,5,0,0,0.0,1
+U098,C014,Natural Language Processing,AI/ML,Intermediate,6,0,0,0.0,1
+U098,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U098,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U098,C012,Backend Development with FastAPI,Web Development,Intermediate,0,0,0,0.0,0
+U099,C017,Computer Networks,Networking,Beginner,1,1,91,4.8,0
+U099,C018,Network Security,Networking,Intermediate,2,1,90,4.4,0
+U099,C007,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,0,0,0.0,1
+U099,C008,Ethical Hacking,Cybersecurity,Intermediate,4,0,0,0.0,1
+U099,C009,Cloud Computing Basics,Cloud,Beginner,5,0,0,0.0,1
+U099,C010,AWS Cloud Practitioner,Cloud,Intermediate,6,0,0,0.0,1
+U099,C016,Docker and Kubernetes,DevOps,Intermediate,7,0,0,0.0,1
+U099,C013,Statistics for Data Science,Data,Beginner,0,0,0,0.0,0
+U099,C012,Backend Development with FastAPI,Web Development,Intermediate,0,0,0,0.0,0
+U100,C009,Cloud Computing Basics,Cloud,Beginner,1,1,84,4.7,0
+U100,C010,AWS Cloud Practitioner,Cloud,Intermediate,2,1,89,4.5,0
+U100,C015,DevOps Fundamentals,DevOps,Beginner,3,0,0,0.0,1
+U100,C016,Docker and Kubernetes,DevOps,Intermediate,4,0,0,0.0,1
+U100,C012,Backend Development with FastAPI,Web Development,Intermediate,5,0,0,0.0,1
+U100,C003,Machine Learning Basics,AI/ML,Beginner,6,0,0,0.0,1
+U100,C020,MLOps with MLflow,AI/ML,Advanced,7,0,0,0.0,1
+U100,C019,Generative AI Fundamentals,AI/ML,Beginner,0,0,0,0.0,0
+U100,C005,SQL Fundamentals,Data,Beginner,0,0,0,0.0,0
