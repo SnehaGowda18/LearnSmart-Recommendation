@@ -519,9 +519,11 @@ A 5-minute end-to-end demonstration of the LearnSmart system will show:
 
 ### Demo Video
 
-```text
-PASTE YOUR DEMO VIDEO LINK HERE
-```
+
+
+https://drive.google.com/file/d/1Ug_jl4Chg9fhZkWvNC3iqJzyRgK_KbMa/view?usp=sharing
+
+
 
 ---
 
