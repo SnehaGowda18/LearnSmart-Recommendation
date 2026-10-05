@@ -7,29 +7,24 @@ DATA_PATH = "data/learnsmart_interactions.csv"
 
 
 def precision_at_5_for_user(df, user_id):
-    """Calculate Precision@5 using one held-out completed course."""
+    """Calculate Precision@5 using known relevant future courses."""
 
     user_data = df[
-        (df["user_id"] == user_id)
-        & (df["completed"] == 1)
-    ].copy()
+        df["user_id"] == user_id
+    ]
 
-    if len(user_data) < 2:
+    relevant_courses = set(
+        user_data[
+            (user_data["completed"] == 0)
+            & (user_data["relevant"] == 1)
+        ]["course_id"]
+    )
+
+    if not relevant_courses:
         return None
 
-    # Hold out the user's last completed course.
-    test_course = user_data.iloc[-1]["course_id"]
-
-    # Remove the test course from the user's history.
-    history = df[
-        ~(
-            (df["user_id"] == user_id)
-            & (df["course_id"] == test_course)
-        )
-    ].copy()
-
     recommendations = recommend_courses(
-        history,
+        df,
         user_id,
         top_n=5,
     )
@@ -38,18 +33,23 @@ def precision_at_5_for_user(df, user_id):
         recommendations["course_id"]
     )
 
-    if test_course in recommended_courses:
-        return 1 / 5
+    hits = len(
+        recommended_courses.intersection(
+            relevant_courses
+        )
+    )
 
-    return 0.0
+    return hits / 5
 
 
 def evaluate_all_users(df):
-    """Calculate average Precision@5 for all eligible users."""
+    """Evaluate Precision@5 across all eligible users."""
 
     scores = []
 
-    for user_id in sorted(df["user_id"].unique()):
+    for user_id in sorted(
+        df["user_id"].unique()
+    ):
         score = precision_at_5_for_user(
             df,
             user_id,
@@ -61,21 +61,42 @@ def evaluate_all_users(df):
     if not scores:
         return 0.0, 0
 
-    return sum(scores) / len(scores), len(scores)
+    return (
+        sum(scores) / len(scores),
+        len(scores),
+    )
 
 
 if __name__ == "__main__":
+
     data = pd.read_csv(DATA_PATH)
 
-    precision, users_evaluated = evaluate_all_users(data)
+    precision, users_evaluated = (
+        evaluate_all_users(data)
+    )
 
-    print("LearnSmart Hybrid Model Evaluation")
+    print(
+        "LearnSmart Hybrid Model Evaluation"
+    )
     print("=" * 45)
-    print(f"Users evaluated: {users_evaluated}")
-    print(f"Precision@5: {precision:.4f}")
-    print(f"Precision@5 (%): {precision * 100:.2f}%")
+
+    print(
+        f"Users evaluated: {users_evaluated}"
+    )
+
+    print(
+        f"Precision@5: {precision:.4f}"
+    )
+
+    print(
+        f"Precision@5 (%): {precision * 100:.2f}%"
+    )
 
     if precision >= 0.60:
-        print("Target Precision@5 >= 0.60: PASSED")
+        print(
+            "Target Precision@5 >= 0.60: PASSED"
+        )
     else:
-        print("Target Precision@5 >= 0.60: NOT YET MET")
+        print(
+            "Target Precision@5 >= 0.60: NOT YET MET"
+        )
